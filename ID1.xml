@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2026 19:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 16:10:22 +0000</lastBuildDate>
     <pubDate>Thu, 04 May 2023 14:20:52 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/K5PQODXDwG0ZenVuL5TQuG9-m98U-0CqnE53XNDwH-u48goKqQzEd51vEdPcDtYZC11d02fwZA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>YUcHPNXW2Tw</guid>
+      <title>Faire des maths quand on est KO mentalement 2 </title>
+      <link>https://youtube.com/watch?v=YUcHPNXW2Tw</link>
+      <description> </description>
+      <pubDate>Mon, 16 Mar 2026 18:52:15 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/YUcHPNXW2Tw.mp3" length="7052829" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Faire des maths quand on est KO mentalement 2 </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/YUcHPNXW2Tw/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>2</itunes:order>
+    </item>
+    <item>
       <guid>vhOa57crDdI</guid>
       <title>Pour connaître ton cours fais des exos</title>
       <link>https://youtube.com/watch?v=vhOa57crDdI</link>
@@ -37,7 +52,97 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/vhOa57crDdI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>7</itunes:order>
+    </item>
+    <item>
+      <guid>u0rzb_xLeZ8</guid>
+      <title>Dois tu recopier ton cours ?? </title>
+      <link>https://youtube.com/watch?v=u0rzb_xLeZ8</link>
+      <description> </description>
+      <pubDate>Thu, 05 Feb 2026 18:57:32 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/u0rzb_xLeZ8.mp3" length="8256333" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Dois tu recopier ton cours ?? </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/u0rzb_xLeZ8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>14:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>8</itunes:order>
+    </item>
+    <item>
+      <guid>Zl1DQU0Fx-4</guid>
+      <title>Résoudre les exercices difficiles ! </title>
+      <link>https://youtube.com/watch?v=Zl1DQU0Fx-4</link>
+      <description> </description>
+      <pubDate>Sun, 11 Jan 2026 18:56:56 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/Zl1DQU0Fx-4.mp3" length="6122805" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Résoudre les exercices difficiles ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Zl1DQU0Fx-4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>10:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>9</itunes:order>
+    </item>
+    <item>
+      <guid>TFs6TEtWEZo</guid>
+      <title>Pourquoi tu dois taffer avec autrui !  </title>
+      <link>https://youtube.com/watch?v=TFs6TEtWEZo</link>
+      <description> </description>
+      <pubDate>Fri, 09 Jan 2026 16:06:52 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/TFs6TEtWEZo.mp3" length="5467845" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Pourquoi tu dois taffer avec autrui !  </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/TFs6TEtWEZo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>10:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>10</itunes:order>
+    </item>
+    <item>
+      <guid>BcdB5kJazJc</guid>
+      <title>Pourquoi les maths sont plus RENTABLES ! </title>
+      <link>https://youtube.com/watch?v=BcdB5kJazJc</link>
+      <description> </description>
+      <pubDate>Fri, 19 Dec 2025 19:05:02 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/BcdB5kJazJc.mp3" length="7879317" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Pourquoi les maths sont plus RENTABLES ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/BcdB5kJazJc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>11</itunes:order>
+    </item>
+    <item>
+      <guid>wXCaDWEJXrc</guid>
+      <title>Progresser en vacances ! </title>
+      <link>https://youtube.com/watch?v=wXCaDWEJXrc</link>
+      <description> </description>
+      <pubDate>Thu, 18 Dec 2025 17:01:40 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/wXCaDWEJXrc.mp3" length="7555773" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Progresser en vacances ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/wXCaDWEJXrc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>12</itunes:order>
+    </item>
+    <item>
+      <guid>sw87fKe8vUo</guid>
+      <title>Fais ceci pour les exos : </title>
+      <link>https://youtube.com/watch?v=sw87fKe8vUo</link>
+      <description> </description>
+      <pubDate>Sun, 30 Nov 2025 17:26:03 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/sw87fKe8vUo.mp3" length="9477237" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Fais ceci pour les exos : </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/sw87fKe8vUo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>14</itunes:order>
     </item>
     <item>
       <guid>beA6WVx7-zo</guid>
@@ -52,7 +157,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/beA6WVx7-zo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>20:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>9</itunes:order>
+      <itunes:order>15</itunes:order>
     </item>
     <item>
       <guid>9gFCirUB_YE</guid>
@@ -67,7 +172,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/9gFCirUB_YE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>10</itunes:order>
+      <itunes:order>16</itunes:order>
     </item>
     <item>
       <guid>7BJ7ouBD4e4</guid>
@@ -82,7 +187,52 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/7BJ7ouBD4e4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>31:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>11</itunes:order>
+      <itunes:order>17</itunes:order>
+    </item>
+    <item>
+      <guid>cOnDN2arJ1I</guid>
+      <title>Majorer les maths facilement grâce au non ego</title>
+      <link>https://youtube.com/watch?v=cOnDN2arJ1I</link>
+      <description> </description>
+      <pubDate>Sun, 12 Oct 2025 17:00:52 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/cOnDN2arJ1I.mp3" length="7509285" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Majorer les maths facilement grâce au non ego</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/cOnDN2arJ1I/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>18</itunes:order>
+    </item>
+    <item>
+      <guid>8ig2qYMnYTQ</guid>
+      <title>Lire Proust </title>
+      <link>https://youtube.com/watch?v=8ig2qYMnYTQ</link>
+      <description> </description>
+      <pubDate>Fri, 10 Oct 2025 15:52:50 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/8ig2qYMnYTQ.mp3" length="6135621" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Lire Proust </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/8ig2qYMnYTQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>10:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>19</itunes:order>
+    </item>
+    <item>
+      <guid>yrwgsJnoRkE</guid>
+      <title>Être ambitieux (se) ! </title>
+      <link>https://youtube.com/watch?v=yrwgsJnoRkE</link>
+      <description> </description>
+      <pubDate>Mon, 06 Oct 2025 16:04:37 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/yrwgsJnoRkE.mp3" length="7644741" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Être ambitieux (se) ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/yrwgsJnoRkE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>20</itunes:order>
     </item>
     <item>
       <guid>A_CkEQ0tIqM</guid>
@@ -97,7 +247,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/A_CkEQ0tIqM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>16</itunes:order>
+      <itunes:order>22</itunes:order>
     </item>
     <item>
       <guid>XaiwQAl3uow</guid>
@@ -112,7 +262,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/XaiwQAl3uow/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>17</itunes:order>
+      <itunes:order>23</itunes:order>
+    </item>
+    <item>
+      <guid>55DjmXy883k</guid>
+      <title>Une nouvelle topologie : les p-adiques </title>
+      <link>https://youtube.com/watch?v=55DjmXy883k</link>
+      <description> </description>
+      <pubDate>Mon, 08 Sep 2025 18:15:13 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/55DjmXy883k.mp3" length="11041341" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Une nouvelle topologie : les p-adiques </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/55DjmXy883k/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>19:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>25</itunes:order>
     </item>
     <item>
       <guid>wimv_OIM4ug</guid>
@@ -127,7 +292,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/wimv_OIM4ug/maxresdefault.jpg"></itunes:image>
       <itunes:duration>21:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>20</itunes:order>
+      <itunes:order>26</itunes:order>
+    </item>
+    <item>
+      <guid>kX4hyrBXycA</guid>
+      <title>Best livres pour la prépa</title>
+      <link>https://youtube.com/watch?v=kX4hyrBXycA</link>
+      <description> </description>
+      <pubDate>Sat, 30 Aug 2025 15:01:30 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/kX4hyrBXycA.mp3" length="12328605" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Best livres pour la prépa</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/kX4hyrBXycA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>21:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>27</itunes:order>
+    </item>
+    <item>
+      <guid>r27N9k2iqdU</guid>
+      <title>Tu peux être premier(e) </title>
+      <link>https://youtube.com/watch?v=r27N9k2iqdU</link>
+      <description> </description>
+      <pubDate>Fri, 22 Aug 2025 15:01:35 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/r27N9k2iqdU.mp3" length="7114893" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Tu peux être premier(e) </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/r27N9k2iqdU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>28</itunes:order>
     </item>
     <item>
       <guid>4f-f_bl-h_I</guid>
@@ -142,7 +337,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/4f-f_bl-h_I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>23</itunes:order>
+      <itunes:order>29</itunes:order>
+    </item>
+    <item>
+      <guid>n6hCepjMSRA</guid>
+      <title>Le th d’alembert gauss </title>
+      <link>https://youtube.com/watch?v=n6hCepjMSRA</link>
+      <description> </description>
+      <pubDate>Sat, 16 Aug 2025 13:41:35 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/n6hCepjMSRA.mp3" length="28115997" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Le th d’alembert gauss </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/n6hCepjMSRA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>50:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>30</itunes:order>
     </item>
     <item>
       <guid>HbKUm2L_iAU</guid>
@@ -157,7 +367,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/HbKUm2L_iAU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>25</itunes:order>
+      <itunes:order>31</itunes:order>
     </item>
     <item>
       <guid>gZCzOLYmizY</guid>
@@ -172,7 +382,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/gZCzOLYmizY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>35:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>27</itunes:order>
+      <itunes:order>33</itunes:order>
+    </item>
+    <item>
+      <guid>Wd4JPFx-8ms</guid>
+      <title>majorer les Kholles ! </title>
+      <link>https://youtube.com/watch?v=Wd4JPFx-8ms</link>
+      <description> </description>
+      <pubDate>Sat, 26 Jul 2025 15:01:01 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/Wd4JPFx-8ms.mp3" length="10994397" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>majorer les Kholles ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Wd4JPFx-8ms/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>18:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>34</itunes:order>
     </item>
     <item>
       <guid>NcFG55n98J8</guid>
@@ -187,7 +412,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/NcFG55n98J8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>16:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>29</itunes:order>
+      <itunes:order>35</itunes:order>
+    </item>
+    <item>
+      <guid>X-kFrvm_KEo</guid>
+      <title>Top alg : interlude ensembliste (Tles)</title>
+      <link>https://youtube.com/watch?v=X-kFrvm_KEo</link>
+      <description> </description>
+      <pubDate>Thu, 10 Jul 2025 15:00:57 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/X-kFrvm_KEo.mp3" length="16199781" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Top alg : interlude ensembliste (Tles)</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/X-kFrvm_KEo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>28:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>37</itunes:order>
     </item>
     <item>
       <guid>-umtdmezh1o</guid>
@@ -202,7 +442,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/-umtdmezh1o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>33</itunes:order>
+      <itunes:order>39</itunes:order>
     </item>
     <item>
       <guid>GqCc1b3tpm4</guid>
@@ -217,7 +457,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/GqCc1b3tpm4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>35</itunes:order>
+      <itunes:order>41</itunes:order>
     </item>
     <item>
       <guid>uC85oX3oP4k</guid>
@@ -232,7 +472,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/uC85oX3oP4k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>17:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>37</itunes:order>
+      <itunes:order>43</itunes:order>
     </item>
     <item>
       <guid>IXMX3UgWLAo</guid>
@@ -247,7 +487,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/IXMX3UgWLAo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>38</itunes:order>
+      <itunes:order>44</itunes:order>
     </item>
     <item>
       <guid>segEddVoXM8</guid>
@@ -262,7 +502,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/segEddVoXM8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>39</itunes:order>
+      <itunes:order>45</itunes:order>
     </item>
     <item>
       <guid>FiuV_PCGKLw</guid>
@@ -277,7 +517,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/FiuV_PCGKLw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>40</itunes:order>
+      <itunes:order>46</itunes:order>
     </item>
     <item>
       <guid>Co4N3tCu76w</guid>
@@ -292,7 +532,45 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Co4N3tCu76w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>41</itunes:order>
+      <itunes:order>47</itunes:order>
+    </item>
+    <item>
+      <guid>uM1uykwWAd4</guid>
+      <title>Comment majorer les oraux !</title>
+      <link>https://youtube.com/watch?v=uM1uykwWAd4</link>
+      <description> </description>
+      <pubDate>Fri, 09 May 2025 16:01:26 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/uM1uykwWAd4.mp3" length="7344309" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Comment majorer les oraux !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/uM1uykwWAd4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>48</itunes:order>
+    </item>
+    <item>
+      <guid>ivTjzMMXA4o</guid>
+      <title>Kholle avec des PC de H4</title>
+      <link>https://youtube.com/watch?v=ivTjzMMXA4o</link>
+      <description>Exos : &#xA;Badis : &#xA;montrer que si U n est partitioné en polygones, &#xA;Alors il existe au moins deux polygones avec le nombre de sommets minimal. ( il n’existe pas de partitions de U12 en un polygone de longueur 2 deux de longueur 3 et un de longueur 4 par exemple ) &#xA;&#xA;Paul R : Montrer que 1+ X + X/2 +…+ X/ n factoriel n’a que des racines simples sur C&#xA;&#xA;Paul B : Soit P dans Rn [X] tel que P(1)=1,…,P(n)= 1/n.&#xA;Determiner P(0)</description>
+      <pubDate>Sat, 26 Apr 2025 16:00:58 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/ivTjzMMXA4o.mp3" length="51108045" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Kholle avec des PC de H4</itunes:subtitle>
+      <itunes:summary><![CDATA[Exos : 
+Badis : 
+montrer que si U n est partitioné en polygones, 
+Alors il existe au moins deux polygones avec le nombre de sommets minimal. ( il n’existe pas de partitions de U12 en un polygone de longueur 2 deux de longueur 3 et un de longueur 4 par exemple ) 
+
+Paul R : Montrer que 1+ X + X/2 +…+ X/ n factoriel n’a que des racines simples sur C
+
+Paul B : Soit P dans Rn [X] tel que P(1)=1,…,P(n)= 1/n.
+Determiner P(0)]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/ivTjzMMXA4o/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:02:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>51</itunes:order>
     </item>
     <item>
       <guid>JhvJhXuGfPM</guid>
@@ -307,7 +585,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/JhvJhXuGfPM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>47</itunes:order>
+      <itunes:order>53</itunes:order>
     </item>
     <item>
       <guid>5bYIk1oWql4</guid>
@@ -322,7 +600,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/5bYIk1oWql4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>48</itunes:order>
+      <itunes:order>54</itunes:order>
+    </item>
+    <item>
+      <guid>zG28uPTA5eQ</guid>
+      <title>Conseils pour les lycéens</title>
+      <link>https://youtube.com/watch?v=zG28uPTA5eQ</link>
+      <description> </description>
+      <pubDate>Mon, 07 Apr 2025 17:01:04 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zG28uPTA5eQ.mp3" length="8794821" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Conseils pour les lycéens</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zG28uPTA5eQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>55</itunes:order>
     </item>
     <item>
       <guid>HqmkP79g5gk</guid>
@@ -337,7 +630,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/HqmkP79g5gk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>51</itunes:order>
+      <itunes:order>57</itunes:order>
+    </item>
+    <item>
+      <guid>V0M3dUNDE18</guid>
+      <title>Augmenter sa confiance mathématique de soi</title>
+      <link>https://youtube.com/watch?v=V0M3dUNDE18</link>
+      <description> </description>
+      <pubDate>Sun, 23 Mar 2025 17:00:28 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/V0M3dUNDE18.mp3" length="3995541" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Augmenter sa confiance mathématique de soi</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/V0M3dUNDE18/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>58</itunes:order>
+    </item>
+    <item>
+      <guid>tkzMO-wCHM8</guid>
+      <title>Besoin de sens</title>
+      <link>https://youtube.com/watch?v=tkzMO-wCHM8</link>
+      <description> </description>
+      <pubDate>Thu, 20 Mar 2025 17:00:58 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/tkzMO-wCHM8.mp3" length="1612005" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Besoin de sens</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/tkzMO-wCHM8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>59</itunes:order>
     </item>
     <item>
       <guid>YF4yEs77xqw</guid>
@@ -352,7 +675,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/YF4yEs77xqw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>54</itunes:order>
+      <itunes:order>60</itunes:order>
+    </item>
+    <item>
+      <guid>XT3dLdVwhJA</guid>
+      <title>3 conseils en maths</title>
+      <link>https://youtube.com/watch?v=XT3dLdVwhJA</link>
+      <description> </description>
+      <pubDate>Tue, 11 Mar 2025 17:00:36 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/XT3dLdVwhJA.mp3" length="6451917" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>3 conseils en maths</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/XT3dLdVwhJA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>61</itunes:order>
     </item>
     <item>
       <guid>IoO7CHDGygk</guid>
@@ -367,7 +705,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/IoO7CHDGygk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>16:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>56</itunes:order>
+      <itunes:order>62</itunes:order>
+    </item>
+    <item>
+      <guid>R4OfdY5G6L8</guid>
+      <title>Abordes les maths en léger</title>
+      <link>https://youtube.com/watch?v=R4OfdY5G6L8</link>
+      <description> </description>
+      <pubDate>Wed, 05 Mar 2025 18:37:28 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/R4OfdY5G6L8.mp3" length="6370197" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Abordes les maths en léger</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/R4OfdY5G6L8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>63</itunes:order>
+    </item>
+    <item>
+      <guid>JP7htPsTQmc</guid>
+      <title>Le lemme de Gronwall !</title>
+      <link>https://youtube.com/watch?v=JP7htPsTQmc</link>
+      <description> </description>
+      <pubDate>Sun, 02 Mar 2025 17:00:15 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/JP7htPsTQmc.mp3" length="10984533" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Le lemme de Gronwall !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/JP7htPsTQmc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>18:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>64</itunes:order>
     </item>
     <item>
       <guid>SbZSEDOM5ig</guid>
@@ -382,7 +750,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/SbZSEDOM5ig/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>59</itunes:order>
+      <itunes:order>65</itunes:order>
     </item>
     <item>
       <guid>a8QTK0okuXk</guid>
@@ -397,7 +765,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/a8QTK0okuXk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>60</itunes:order>
+      <itunes:order>66</itunes:order>
+    </item>
+    <item>
+      <guid>tyOXm7--pFM</guid>
+      <title>Dépasser les autres en cours</title>
+      <link>https://youtube.com/watch?v=tyOXm7--pFM</link>
+      <description> </description>
+      <pubDate>Sat, 08 Feb 2025 16:00:55 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/tyOXm7--pFM.mp3" length="6607581" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Dépasser les autres en cours</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/tyOXm7--pFM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>68</itunes:order>
     </item>
     <item>
       <guid>89Hm05VCVq0</guid>
@@ -412,7 +795,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/89Hm05VCVq0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>63</itunes:order>
+      <itunes:order>69</itunes:order>
+    </item>
+    <item>
+      <guid>cp6bylRluxk</guid>
+      <title>Être plus efficace !</title>
+      <link>https://youtube.com/watch?v=cp6bylRluxk</link>
+      <description> </description>
+      <pubDate>Fri, 31 Jan 2025 16:00:43 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/cp6bylRluxk.mp3" length="4917645" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Être plus efficace !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/cp6bylRluxk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>70</itunes:order>
+    </item>
+    <item>
+      <guid>OYdmrswJ_pQ</guid>
+      <title>Probabilités</title>
+      <link>https://youtube.com/watch?v=OYdmrswJ_pQ</link>
+      <description> </description>
+      <pubDate>Sat, 25 Jan 2025 16:00:31 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/OYdmrswJ_pQ.mp3" length="10025109" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Probabilités</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/OYdmrswJ_pQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>17:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>71</itunes:order>
     </item>
     <item>
       <guid>PwyeRIzRlWs</guid>
@@ -427,7 +840,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/PwyeRIzRlWs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>66</itunes:order>
+      <itunes:order>72</itunes:order>
+    </item>
+    <item>
+      <guid>rvt_tZs69NM</guid>
+      <title>Exercice de réduction - deux années et plus</title>
+      <link>https://youtube.com/watch?v=rvt_tZs69NM</link>
+      <description> </description>
+      <pubDate>Fri, 17 Jan 2025 16:01:01 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/rvt_tZs69NM.mp3" length="6588381" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Exercice de réduction - deux années et plus</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/rvt_tZs69NM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>73</itunes:order>
     </item>
     <item>
       <guid>EncIR_FqFz0</guid>
@@ -442,7 +870,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/EncIR_FqFz0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>68</itunes:order>
+      <itunes:order>74</itunes:order>
     </item>
     <item>
       <guid>gcV4LxlI_Xo</guid>
@@ -457,7 +885,67 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/gcV4LxlI_Xo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>69</itunes:order>
+      <itunes:order>75</itunes:order>
+    </item>
+    <item>
+      <guid>q5duhv0LWyg</guid>
+      <title>Être lucide !</title>
+      <link>https://youtube.com/watch?v=q5duhv0LWyg</link>
+      <description> </description>
+      <pubDate>Fri, 27 Dec 2024 16:00:52 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/q5duhv0LWyg.mp3" length="5161389" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Être lucide !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/q5duhv0LWyg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>77</itunes:order>
+    </item>
+    <item>
+      <guid>pHwfhsk5vRI</guid>
+      <title>Retenir le cours de maths</title>
+      <link>https://youtube.com/watch?v=pHwfhsk5vRI</link>
+      <description> </description>
+      <pubDate>Fri, 20 Dec 2024 16:00:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pHwfhsk5vRI.mp3" length="4461765" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Retenir le cours de maths</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pHwfhsk5vRI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>78</itunes:order>
+    </item>
+    <item>
+      <guid>zVWaNN_Ma1E</guid>
+      <title>Être plus concentré</title>
+      <link>https://youtube.com/watch?v=zVWaNN_Ma1E</link>
+      <description> </description>
+      <pubDate>Thu, 12 Dec 2024 16:00:56 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zVWaNN_Ma1E.mp3" length="4005285" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Être plus concentré</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zVWaNN_Ma1E/hqdefault.jpg"></itunes:image>
+      <itunes:duration>6:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>79</itunes:order>
+    </item>
+    <item>
+      <guid>k1ebSuqg9z0</guid>
+      <title>Aimer les maths</title>
+      <link>https://youtube.com/watch?v=k1ebSuqg9z0</link>
+      <description> </description>
+      <pubDate>Thu, 05 Dec 2024 16:00:41 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/k1ebSuqg9z0.mp3" length="3170973" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Aimer les maths</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/k1ebSuqg9z0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>80</itunes:order>
     </item>
     <item>
       <guid>Jz5PyYFehOY</guid>
@@ -472,7 +960,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Jz5PyYFehOY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>75</itunes:order>
+      <itunes:order>81</itunes:order>
+    </item>
+    <item>
+      <guid>nRPENdu-4ak</guid>
+      <title>Prépa, qui es tu ? Pour lycéens</title>
+      <link>https://youtube.com/watch?v=nRPENdu-4ak</link>
+      <description> </description>
+      <pubDate>Fri, 29 Nov 2024 16:00:48 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/nRPENdu-4ak.mp3" length="3217389" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Prépa, qui es tu ? Pour lycéens</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/nRPENdu-4ak/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>82</itunes:order>
+    </item>
+    <item>
+      <guid>uktXaeuWqUE</guid>
+      <title>Level up pendant les vacances !</title>
+      <link>https://youtube.com/watch?v=uktXaeuWqUE</link>
+      <description> </description>
+      <pubDate>Tue, 26 Nov 2024 16:00:53 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/uktXaeuWqUE.mp3" length="3037437" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Level up pendant les vacances !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/uktXaeuWqUE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>83</itunes:order>
     </item>
     <item>
       <guid>Jesu0-L7j4k</guid>
@@ -487,7 +1005,52 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Jesu0-L7j4k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>78</itunes:order>
+      <itunes:order>84</itunes:order>
+    </item>
+    <item>
+      <guid>6H9nTOd3yOs</guid>
+      <title>Une astuce pour baisser ton temps d’écran</title>
+      <link>https://youtube.com/watch?v=6H9nTOd3yOs</link>
+      <description> </description>
+      <pubDate>Mon, 18 Nov 2024 16:00:04 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/6H9nTOd3yOs.mp3" length="3091557" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Une astuce pour baisser ton temps d’écran</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/6H9nTOd3yOs/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>85</itunes:order>
+    </item>
+    <item>
+      <guid>NFw6lZAwUfQ</guid>
+      <title>Progresser dans les exos durs</title>
+      <link>https://youtube.com/watch?v=NFw6lZAwUfQ</link>
+      <description> </description>
+      <pubDate>Tue, 12 Nov 2024 16:00:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/NFw6lZAwUfQ.mp3" length="8257605" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Progresser dans les exos durs</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/NFw6lZAwUfQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>14:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>86</itunes:order>
+    </item>
+    <item>
+      <guid>o7VLkSnP6GY</guid>
+      <title>Être plus compétitif-ve</title>
+      <link>https://youtube.com/watch?v=o7VLkSnP6GY</link>
+      <description> </description>
+      <pubDate>Thu, 07 Nov 2024 17:00:53 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/o7VLkSnP6GY.mp3" length="7689885" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Être plus compétitif-ve</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/o7VLkSnP6GY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>87</itunes:order>
     </item>
     <item>
       <guid>nQga6riBNqE</guid>
@@ -502,7 +1065,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/nQga6riBNqE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>82</itunes:order>
+      <itunes:order>88</itunes:order>
     </item>
     <item>
       <guid>00oY8xWAUfE</guid>
@@ -517,7 +1080,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/00oY8xWAUfE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>84</itunes:order>
+      <itunes:order>90</itunes:order>
+    </item>
+    <item>
+      <guid>zmaUCM4kRoQ</guid>
+      <title>Commencer la salle de sport 💪💪</title>
+      <link>https://youtube.com/watch?v=zmaUCM4kRoQ</link>
+      <description> </description>
+      <pubDate>Tue, 22 Oct 2024 16:00:59 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zmaUCM4kRoQ.mp3" length="3812037" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Commencer la salle de sport 💪💪</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zmaUCM4kRoQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>91</itunes:order>
+    </item>
+    <item>
+      <guid>xcCMwVG3w0E</guid>
+      <title>Trouver l’équilibre en première année</title>
+      <link>https://youtube.com/watch?v=xcCMwVG3w0E</link>
+      <description> </description>
+      <pubDate>Sat, 05 Oct 2024 16:00:58 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/xcCMwVG3w0E.mp3" length="9718029" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Trouver l’équilibre en première année</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xcCMwVG3w0E/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>94</itunes:order>
     </item>
     <item>
       <guid>7o6h6ihK2dM</guid>
@@ -532,7 +1125,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/7o6h6ihK2dM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>90</itunes:order>
+      <itunes:order>96</itunes:order>
     </item>
     <item>
       <guid>QXb_-jkmzbE</guid>
@@ -547,7 +1140,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/QXb_-jkmzbE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>37:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>94</itunes:order>
+      <itunes:order>100</itunes:order>
     </item>
     <item>
       <guid>3NWoG4UV36E</guid>
@@ -562,7 +1155,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/3NWoG4UV36E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>95</itunes:order>
+      <itunes:order>101</itunes:order>
     </item>
     <item>
       <guid>7G-oytGFQFI</guid>
@@ -577,7 +1170,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/7G-oytGFQFI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>96</itunes:order>
+      <itunes:order>102</itunes:order>
     </item>
     <item>
       <guid>UXuNagDqjeI</guid>
@@ -592,7 +1185,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/UXuNagDqjeI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>97</itunes:order>
+      <itunes:order>103</itunes:order>
     </item>
     <item>
       <guid>YJZlOvStNdg</guid>
@@ -607,7 +1200,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/YJZlOvStNdg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>98</itunes:order>
+      <itunes:order>104</itunes:order>
+    </item>
+    <item>
+      <guid>fimjzj0YZe4</guid>
+      <title>Réussir les langues en prépa - Français - Anglais</title>
+      <link>https://youtube.com/watch?v=fimjzj0YZe4</link>
+      <description> </description>
+      <pubDate>Sat, 24 Aug 2024 15:00:38 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/fimjzj0YZe4.mp3" length="9539349" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Réussir les langues en prépa - Français - Anglais</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/fimjzj0YZe4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>15:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>105</itunes:order>
     </item>
     <item>
       <guid>ehxCtBI9F0U</guid>
@@ -622,7 +1230,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/ehxCtBI9F0U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>100</itunes:order>
+      <itunes:order>106</itunes:order>
+    </item>
+    <item>
+      <guid>z85DZuaBve0</guid>
+      <title>Nouveau jeu du pile ou face</title>
+      <link>https://youtube.com/watch?v=z85DZuaBve0</link>
+      <description> </description>
+      <pubDate>Wed, 14 Aug 2024 15:01:04 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/z85DZuaBve0.mp3" length="3919533" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Nouveau jeu du pile ou face</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/z85DZuaBve0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>107</itunes:order>
     </item>
     <item>
       <guid>2LMI1c7Ls-o</guid>
@@ -637,7 +1260,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/2LMI1c7Ls-o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>102</itunes:order>
+      <itunes:order>108</itunes:order>
     </item>
     <item>
       <guid>i1cNtwdARm4</guid>
@@ -652,7 +1275,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/i1cNtwdARm4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>103</itunes:order>
+      <itunes:order>109</itunes:order>
     </item>
     <item>
       <guid>Sg_p5t7pAzk</guid>
@@ -667,7 +1290,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Sg_p5t7pAzk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>104</itunes:order>
+      <itunes:order>110</itunes:order>
     </item>
     <item>
       <guid>75WVnCYbeYI</guid>
@@ -682,7 +1305,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/75WVnCYbeYI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>105</itunes:order>
+      <itunes:order>111</itunes:order>
+    </item>
+    <item>
+      <guid>TVDZ-mEYxX8</guid>
+      <title>Bienvenue en prépa</title>
+      <link>https://youtube.com/watch?v=TVDZ-mEYxX8</link>
+      <description> </description>
+      <pubDate>Fri, 02 Aug 2024 15:00:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/TVDZ-mEYxX8.mp3" length="5362053" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Bienvenue en prépa</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/TVDZ-mEYxX8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>112</itunes:order>
     </item>
     <item>
       <guid>LzKtx_j7hlo</guid>
@@ -697,7 +1335,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/LzKtx_j7hlo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>107</itunes:order>
+      <itunes:order>113</itunes:order>
     </item>
     <item>
       <guid>dY-fYGyrAj4</guid>
@@ -712,7 +1350,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/dY-fYGyrAj4/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>108</itunes:order>
+      <itunes:order>114</itunes:order>
     </item>
     <item>
       <guid>kz8Q20ApzL4</guid>
@@ -727,7 +1365,82 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/kz8Q20ApzL4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>15:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>109</itunes:order>
+      <itunes:order>115</itunes:order>
+    </item>
+    <item>
+      <guid>1ZdhMkBJgH8</guid>
+      <title>Lemme : Les parfaits sont non dénombrables</title>
+      <link>https://youtube.com/watch?v=1ZdhMkBJgH8</link>
+      <description> </description>
+      <pubDate>Wed, 10 Jul 2024 15:00:01 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/1ZdhMkBJgH8.mp3" length="5682693" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Lemme : Les parfaits sont non dénombrables</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/1ZdhMkBJgH8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>117</itunes:order>
+    </item>
+    <item>
+      <guid>7LQ63YiyH3M</guid>
+      <title>Mon exo à l’ENS 4</title>
+      <link>https://youtube.com/watch?v=7LQ63YiyH3M</link>
+      <description> </description>
+      <pubDate>Mon, 08 Jul 2024 15:00:06 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/7LQ63YiyH3M.mp3" length="4867965" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Mon exo à l’ENS 4</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/7LQ63YiyH3M/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>118</itunes:order>
+    </item>
+    <item>
+      <guid>PMZ3yIbbF2M</guid>
+      <title>Le futur de Facile d’accès</title>
+      <link>https://youtube.com/watch?v=PMZ3yIbbF2M</link>
+      <description>academie-facile-dacces.fr</description>
+      <pubDate>Fri, 05 Jul 2024 14:39:00 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/PMZ3yIbbF2M.mp3" length="6424461" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Le futur de Facile d’accès</itunes:subtitle>
+      <itunes:summary><![CDATA[academie-facile-dacces.fr]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/PMZ3yIbbF2M/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>119</itunes:order>
+    </item>
+    <item>
+      <guid>xfQhPCpDkeg</guid>
+      <title>Mon exo a l’ENS 2</title>
+      <link>https://youtube.com/watch?v=xfQhPCpDkeg</link>
+      <description> </description>
+      <pubDate>Mon, 01 Jul 2024 15:00:55 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/xfQhPCpDkeg.mp3" length="5020653" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Mon exo a l’ENS 2</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xfQhPCpDkeg/hqdefault.jpg"></itunes:image>
+      <itunes:duration>8:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>121</itunes:order>
+    </item>
+    <item>
+      <guid>71HVsRQocN0</guid>
+      <title>L’exo que j’ai eu à l’ENS</title>
+      <link>https://youtube.com/watch?v=71HVsRQocN0</link>
+      <description> </description>
+      <pubDate>Sat, 29 Jun 2024 15:00:04 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/71HVsRQocN0.mp3" length="9179997" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>L’exo que j’ai eu à l’ENS</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/71HVsRQocN0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>122</itunes:order>
     </item>
     <item>
       <guid>MMKco8XKspo</guid>
@@ -742,7 +1455,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/MMKco8XKspo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>120</itunes:order>
+      <itunes:order>126</itunes:order>
     </item>
     <item>
       <guid>6H7nF5e9Tzk</guid>
@@ -757,7 +1470,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/6H7nF5e9Tzk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>121</itunes:order>
+      <itunes:order>127</itunes:order>
     </item>
     <item>
       <guid>FJjgnTDJoCE</guid>
@@ -772,7 +1485,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/FJjgnTDJoCE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>122</itunes:order>
+      <itunes:order>128</itunes:order>
     </item>
     <item>
       <guid>_UBVOlAn55Q</guid>
@@ -787,7 +1500,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/_UBVOlAn55Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>123</itunes:order>
+      <itunes:order>129</itunes:order>
     </item>
     <item>
       <guid>5XTUOdK2Ujk</guid>
@@ -802,7 +1515,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/5XTUOdK2Ujk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>124</itunes:order>
+      <itunes:order>130</itunes:order>
     </item>
     <item>
       <guid>I8ovj12aAy8</guid>
@@ -817,7 +1530,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/I8ovj12aAy8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>126</itunes:order>
+      <itunes:order>132</itunes:order>
     </item>
     <item>
       <guid>iiaQn1_sdkQ</guid>
@@ -832,7 +1545,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/iiaQn1_sdkQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>14:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>127</itunes:order>
+      <itunes:order>133</itunes:order>
+    </item>
+    <item>
+      <guid>4DXWETbS-N0</guid>
+      <title>Endomorphismes - Exo</title>
+      <link>https://youtube.com/watch?v=4DXWETbS-N0</link>
+      <description> </description>
+      <pubDate>Thu, 16 May 2024 15:00:07 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/4DXWETbS-N0.mp3" length="7871301" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Endomorphismes - Exo</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/4DXWETbS-N0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>135</itunes:order>
     </item>
     <item>
       <guid>_TYhGu_Esak</guid>
@@ -847,7 +1575,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/_TYhGu_Esak/maxresdefault.jpg"></itunes:image>
       <itunes:duration>14:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>132</itunes:order>
+      <itunes:order>138</itunes:order>
     </item>
     <item>
       <guid>a-I0g4NMCzE</guid>
@@ -862,7 +1590,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/a-I0g4NMCzE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>133</itunes:order>
+      <itunes:order>139</itunes:order>
     </item>
     <item>
       <guid>4uHWIG0QS8Y</guid>
@@ -877,7 +1605,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/4uHWIG0QS8Y/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>134</itunes:order>
+      <itunes:order>140</itunes:order>
+    </item>
+    <item>
+      <guid>xzrtBblZVwA</guid>
+      <title>Optimiser tes vacances !</title>
+      <link>https://youtube.com/watch?v=xzrtBblZVwA</link>
+      <description> </description>
+      <pubDate>Sun, 05 May 2024 15:00:50 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/xzrtBblZVwA.mp3" length="6430797" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Optimiser tes vacances !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xzrtBblZVwA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>10:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>141</itunes:order>
+    </item>
+    <item>
+      <guid>YA8awrXn2Kw</guid>
+      <title>L’importance d’une vie sociale en prépa !</title>
+      <link>https://youtube.com/watch?v=YA8awrXn2Kw</link>
+      <description> </description>
+      <pubDate>Sat, 04 May 2024 15:00:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/YA8awrXn2Kw.mp3" length="4849893" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>L’importance d’une vie sociale en prépa !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/YA8awrXn2Kw/hqdefault.jpg"></itunes:image>
+      <itunes:duration>8:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>142</itunes:order>
     </item>
     <item>
       <guid>So87kLBrPjc</guid>
@@ -892,7 +1650,67 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/So87kLBrPjc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>137</itunes:order>
+      <itunes:order>143</itunes:order>
+    </item>
+    <item>
+      <guid>w3VJkY37_gQ</guid>
+      <title>Sois underdog !</title>
+      <link>https://youtube.com/watch?v=w3VJkY37_gQ</link>
+      <description> </description>
+      <pubDate>Mon, 29 Apr 2024 15:00:50 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/w3VJkY37_gQ.mp3" length="3564285" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sois underdog !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/w3VJkY37_gQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>144</itunes:order>
+    </item>
+    <item>
+      <guid>kQYaQ9Nk1bo</guid>
+      <title>Retrouver la motivation !</title>
+      <link>https://youtube.com/watch?v=kQYaQ9Nk1bo</link>
+      <description> </description>
+      <pubDate>Fri, 26 Apr 2024 15:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/kQYaQ9Nk1bo.mp3" length="3573141" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Retrouver la motivation !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/kQYaQ9Nk1bo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>145</itunes:order>
+    </item>
+    <item>
+      <guid>pFleAMpXMEY</guid>
+      <title>Prépa maquée prépa ratée !</title>
+      <link>https://youtube.com/watch?v=pFleAMpXMEY</link>
+      <description> </description>
+      <pubDate>Thu, 25 Apr 2024 15:00:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pFleAMpXMEY.mp3" length="2218197" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Prépa maquée prépa ratée !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pFleAMpXMEY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>3:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>146</itunes:order>
+    </item>
+    <item>
+      <guid>uQc5y5m7Szo</guid>
+      <title>Albert Einstein : Les Leçons !</title>
+      <link>https://youtube.com/watch?v=uQc5y5m7Szo</link>
+      <description> </description>
+      <pubDate>Tue, 23 Apr 2024 15:00:47 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/uQc5y5m7Szo.mp3" length="4158381" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Albert Einstein : Les Leçons !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/uQc5y5m7Szo/hqdefault.jpg"></itunes:image>
+      <itunes:duration>7:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>147</itunes:order>
     </item>
     <item>
       <guid>4nBfAvNecMM</guid>
@@ -907,7 +1725,52 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/4nBfAvNecMM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>142</itunes:order>
+      <itunes:order>148</itunes:order>
+    </item>
+    <item>
+      <guid>cyvHa-1QGvA</guid>
+      <title>Les Oraux - Les autres matières</title>
+      <link>https://youtube.com/watch?v=cyvHa-1QGvA</link>
+      <description> </description>
+      <pubDate>Sat, 20 Apr 2024 15:00:27 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/cyvHa-1QGvA.mp3" length="4717701" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Les Oraux - Les autres matières</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/cyvHa-1QGvA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>149</itunes:order>
+    </item>
+    <item>
+      <guid>SNziSsKQX_I</guid>
+      <title>Reduire le téléphone</title>
+      <link>https://youtube.com/watch?v=SNziSsKQX_I</link>
+      <description> </description>
+      <pubDate>Wed, 17 Apr 2024 15:00:20 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/SNziSsKQX_I.mp3" length="3332685" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Reduire le téléphone</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/SNziSsKQX_I/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>151</itunes:order>
+    </item>
+    <item>
+      <guid>7Og_NDdqSPk</guid>
+      <title>Écrits X ens : Tu as fait ce que t’avais à faire. Profite d’un repos mérité</title>
+      <link>https://youtube.com/watch?v=7Og_NDdqSPk</link>
+      <description> </description>
+      <pubDate>Mon, 15 Apr 2024 17:58:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/7Og_NDdqSPk.mp3" length="2360349" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Écrits X ens : Tu as fait ce que t’avais à faire. Profite d’un repos mérité</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/7Og_NDdqSPk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>152</itunes:order>
     </item>
     <item>
       <guid>-tbEqkLZTdE</guid>
@@ -922,7 +1785,82 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/-tbEqkLZTdE/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>148</itunes:order>
+      <itunes:order>154</itunes:order>
+    </item>
+    <item>
+      <guid>krb1Ly8Oows</guid>
+      <title>Intégrer L’X facilement</title>
+      <link>https://youtube.com/watch?v=krb1Ly8Oows</link>
+      <description> </description>
+      <pubDate>Sat, 13 Apr 2024 15:00:45 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/krb1Ly8Oows.mp3" length="7394397" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Intégrer L’X facilement</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/krb1Ly8Oows/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>155</itunes:order>
+    </item>
+    <item>
+      <guid>DHt2l09mpAM</guid>
+      <title>Écrits X-Ens : Tu as les cartes en main</title>
+      <link>https://youtube.com/watch?v=DHt2l09mpAM</link>
+      <description> </description>
+      <pubDate>Thu, 11 Apr 2024 15:53:36 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/DHt2l09mpAM.mp3" length="5990373" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Écrits X-Ens : Tu as les cartes en main</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/DHt2l09mpAM/hqdefault.jpg"></itunes:image>
+      <itunes:duration>10:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>156</itunes:order>
+    </item>
+    <item>
+      <guid>k9BCK62_eRI</guid>
+      <title>Entre dans une routine</title>
+      <link>https://youtube.com/watch?v=k9BCK62_eRI</link>
+      <description> </description>
+      <pubDate>Tue, 09 Apr 2024 15:00:42 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/k9BCK62_eRI.mp3" length="2705085" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Entre dans une routine</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/k9BCK62_eRI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>157</itunes:order>
+    </item>
+    <item>
+      <guid>taGB7-5sQ-E</guid>
+      <title>Retire ton ego et DOMINE</title>
+      <link>https://youtube.com/watch?v=taGB7-5sQ-E</link>
+      <description> </description>
+      <pubDate>Sun, 07 Apr 2024 15:00:41 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/taGB7-5sQ-E.mp3" length="5158701" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Retire ton ego et DOMINE</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/taGB7-5sQ-E/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>158</itunes:order>
+    </item>
+    <item>
+      <guid>vis2Sxzesso</guid>
+      <title>Investis dans ton mindset</title>
+      <link>https://youtube.com/watch?v=vis2Sxzesso</link>
+      <description> </description>
+      <pubDate>Sat, 06 Apr 2024 15:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vis2Sxzesso.mp3" length="1887477" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Investis dans ton mindset</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vis2Sxzesso/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>3:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>159</itunes:order>
     </item>
     <item>
       <guid>Nl6GI16YmAU</guid>
@@ -937,7 +1875,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Nl6GI16YmAU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>154</itunes:order>
+      <itunes:order>160</itunes:order>
     </item>
     <item>
       <guid>l2-0XTWomc0</guid>
@@ -952,7 +1890,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/l2-0XTWomc0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>155</itunes:order>
+      <itunes:order>161</itunes:order>
     </item>
     <item>
       <guid>PRxWwd05MJs</guid>
@@ -967,7 +1905,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/PRxWwd05MJs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>156</itunes:order>
+      <itunes:order>162</itunes:order>
     </item>
     <item>
       <guid>-lJ6nFKYh2A</guid>
@@ -982,7 +1920,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/-lJ6nFKYh2A/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>157</itunes:order>
+      <itunes:order>163</itunes:order>
     </item>
     <item>
       <guid>ICuE4T7YR6o</guid>
@@ -997,7 +1935,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/ICuE4T7YR6o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>13:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>158</itunes:order>
+      <itunes:order>164</itunes:order>
     </item>
     <item>
       <guid>JIMS5_MEwWA</guid>
@@ -1012,7 +1950,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/JIMS5_MEwWA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>159</itunes:order>
+      <itunes:order>165</itunes:order>
     </item>
     <item>
       <guid>Ygaa-j-ADao</guid>
@@ -1027,7 +1965,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Ygaa-j-ADao/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>160</itunes:order>
+      <itunes:order>166</itunes:order>
+    </item>
+    <item>
+      <guid>ALwMMDpHsr8</guid>
+      <title>Réussir son TIPE</title>
+      <link>https://youtube.com/watch?v=ALwMMDpHsr8</link>
+      <description> </description>
+      <pubDate>Thu, 28 Mar 2024 16:00:11 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/ALwMMDpHsr8.mp3" length="4155621" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Réussir son TIPE</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/ALwMMDpHsr8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>167</itunes:order>
     </item>
     <item>
       <guid>O8kNNtxWA1k</guid>
@@ -1042,7 +1995,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/O8kNNtxWA1k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>163</itunes:order>
+      <itunes:order>169</itunes:order>
     </item>
     <item>
       <guid>UU4NaiEso-8</guid>
@@ -1057,7 +2010,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/UU4NaiEso-8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>164</itunes:order>
+      <itunes:order>170</itunes:order>
     </item>
     <item>
       <guid>QzwYO3-DMyI</guid>
@@ -1072,7 +2025,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/QzwYO3-DMyI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>165</itunes:order>
+      <itunes:order>171</itunes:order>
+    </item>
+    <item>
+      <guid>vcLHFdeLuOw</guid>
+      <title>Alexandre Grothendieck - Récoltes et semailles</title>
+      <link>https://youtube.com/watch?v=vcLHFdeLuOw</link>
+      <description> </description>
+      <pubDate>Wed, 20 Mar 2024 16:00:43 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vcLHFdeLuOw.mp3" length="6229149" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Alexandre Grothendieck - Récoltes et semailles</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vcLHFdeLuOw/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>10:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>172</itunes:order>
     </item>
     <item>
       <guid>dyO9dw4bwLI</guid>
@@ -1087,7 +2055,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/dyO9dw4bwLI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>167</itunes:order>
+      <itunes:order>173</itunes:order>
+    </item>
+    <item>
+      <guid>xQiaxBP7hMw</guid>
+      <title>Sois AMBITIEUX(SE)</title>
+      <link>https://youtube.com/watch?v=xQiaxBP7hMw</link>
+      <description> </description>
+      <pubDate>Sun, 17 Mar 2024 16:00:47 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/xQiaxBP7hMw.mp3" length="3841917" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sois AMBITIEUX(SE)</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xQiaxBP7hMw/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>174</itunes:order>
+    </item>
+    <item>
+      <guid>zfCUnvM6hcM</guid>
+      <title>Majorer la PHYSIQUE</title>
+      <link>https://youtube.com/watch?v=zfCUnvM6hcM</link>
+      <description> </description>
+      <pubDate>Sat, 16 Mar 2024 17:00:52 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zfCUnvM6hcM.mp3" length="5592789" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Majorer la PHYSIQUE</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zfCUnvM6hcM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>175</itunes:order>
     </item>
     <item>
       <guid>18Qx-Bop-oc</guid>
@@ -1102,7 +2100,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/18Qx-Bop-oc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>170</itunes:order>
+      <itunes:order>176</itunes:order>
+    </item>
+    <item>
+      <guid>YzYut206TOA</guid>
+      <title>La CONFIANCE EN SOI ( en maths )</title>
+      <link>https://youtube.com/watch?v=YzYut206TOA</link>
+      <description> </description>
+      <pubDate>Thu, 14 Mar 2024 16:00:22 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/YzYut206TOA.mp3" length="8042613" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>La CONFIANCE EN SOI ( en maths )</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/YzYut206TOA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>177</itunes:order>
     </item>
     <item>
       <guid>IvhqvW00eVc</guid>
@@ -1117,7 +2130,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/IvhqvW00eVc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:30:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>172</itunes:order>
+      <itunes:order>178</itunes:order>
     </item>
     <item>
       <guid>dLnk_-b7kwU</guid>
@@ -1132,7 +2145,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/dLnk_-b7kwU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>173</itunes:order>
+      <itunes:order>179</itunes:order>
+    </item>
+    <item>
+      <guid>Cut_HB55tWM</guid>
+      <title>Comment travailler en vacances !</title>
+      <link>https://youtube.com/watch?v=Cut_HB55tWM</link>
+      <description> </description>
+      <pubDate>Mon, 11 Mar 2024 17:00:09 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/Cut_HB55tWM.mp3" length="6456669" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Comment travailler en vacances !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Cut_HB55tWM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>180</itunes:order>
+    </item>
+    <item>
+      <guid>Hat6nOJovOk</guid>
+      <title>Topo Hp - Complétude</title>
+      <link>https://youtube.com/watch?v=Hat6nOJovOk</link>
+      <description> </description>
+      <pubDate>Sun, 10 Mar 2024 16:00:20 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/Hat6nOJovOk.mp3" length="25020861" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Topo Hp - Complétude</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Hat6nOJovOk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>44:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>181</itunes:order>
     </item>
     <item>
       <guid>Wrl4wKrGlq0</guid>
@@ -1147,7 +2190,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/Wrl4wKrGlq0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>24:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>176</itunes:order>
+      <itunes:order>182</itunes:order>
+    </item>
+    <item>
+      <guid>rTfendOmIpc</guid>
+      <title>ULM 22 - Groupes finis de matrices entières</title>
+      <link>https://youtube.com/watch?v=rTfendOmIpc</link>
+      <description> </description>
+      <pubDate>Fri, 08 Mar 2024 17:00:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/rTfendOmIpc.mp3" length="5475981" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>ULM 22 - Groupes finis de matrices entières</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/rTfendOmIpc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>183</itunes:order>
     </item>
     <item>
       <guid>j8ddQbmlo4U</guid>
@@ -1162,7 +2220,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/j8ddQbmlo4U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>178</itunes:order>
+      <itunes:order>184</itunes:order>
     </item>
     <item>
       <guid>RhSqb6jDcq4</guid>
@@ -1177,7 +2235,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/RhSqb6jDcq4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>179</itunes:order>
+      <itunes:order>185</itunes:order>
     </item>
     <item>
       <guid>VYRIZN_KzJc</guid>
@@ -1192,7 +2250,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/VYRIZN_KzJc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>13:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>180</itunes:order>
+      <itunes:order>186</itunes:order>
     </item>
     <item>
       <guid>4h9fRuR65hE</guid>
@@ -1207,7 +2265,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/4h9fRuR65hE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>181</itunes:order>
+      <itunes:order>187</itunes:order>
     </item>
     <item>
       <guid>nVZJCawlsO8</guid>
@@ -1222,7 +2280,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/nVZJCawlsO8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>182</itunes:order>
+      <itunes:order>188</itunes:order>
+    </item>
+    <item>
+      <guid>s_UUBsXRamQ</guid>
+      <title>5 Conseils qui vont CHANGER ta prépa</title>
+      <link>https://youtube.com/watch?v=s_UUBsXRamQ</link>
+      <description> </description>
+      <pubDate>Fri, 01 Mar 2024 14:00:51 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/s_UUBsXRamQ.mp3" length="7033365" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>5 Conseils qui vont CHANGER ta prépa</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/s_UUBsXRamQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>189</itunes:order>
     </item>
     <item>
       <guid>cN1z6OOyCgI</guid>
@@ -1237,7 +2310,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/cN1z6OOyCgI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>14:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>184</itunes:order>
+      <itunes:order>190</itunes:order>
     </item>
     <item>
       <guid>PWIZrs9s1zM</guid>
@@ -1252,7 +2325,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/PWIZrs9s1zM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>185</itunes:order>
+      <itunes:order>191</itunes:order>
+    </item>
+    <item>
+      <guid>qXSWrR3bfQg</guid>
+      <title>Parcoursup LLG !</title>
+      <link>https://youtube.com/watch?v=qXSWrR3bfQg</link>
+      <description> </description>
+      <pubDate>Mon, 26 Feb 2024 19:16:45 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/qXSWrR3bfQg.mp3" length="2855181" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Parcoursup LLG !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/qXSWrR3bfQg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>192</itunes:order>
     </item>
     <item>
       <guid>NRieSedC8O8</guid>
@@ -1267,7 +2355,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/NRieSedC8O8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>188</itunes:order>
+      <itunes:order>194</itunes:order>
     </item>
     <item>
       <guid>hQFVXJrPIac</guid>
@@ -1282,7 +2370,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/hQFVXJrPIac/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>189</itunes:order>
+      <itunes:order>195</itunes:order>
+    </item>
+    <item>
+      <guid>DxwZyRUO7mI</guid>
+      <title>Sup- Groupes !</title>
+      <link>https://youtube.com/watch?v=DxwZyRUO7mI</link>
+      <description> </description>
+      <pubDate>Thu, 22 Feb 2024 09:00:17 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/DxwZyRUO7mI.mp3" length="4107765" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sup- Groupes !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/DxwZyRUO7mI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>196</itunes:order>
+    </item>
+    <item>
+      <guid>DHssox4avu0</guid>
+      <title>ULM 20 - Dur !</title>
+      <link>https://youtube.com/watch?v=DHssox4avu0</link>
+      <description> </description>
+      <pubDate>Wed, 21 Feb 2024 17:24:30 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/DHssox4avu0.mp3" length="12668733" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>ULM 20 - Dur !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/DHssox4avu0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>22:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>197</itunes:order>
     </item>
     <item>
       <guid>mqi2ymweW70</guid>
@@ -1297,7 +2415,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/mqi2ymweW70/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>195</itunes:order>
+      <itunes:order>201</itunes:order>
     </item>
     <item>
       <guid>B2D9DTfwIx8</guid>
@@ -1312,7 +2430,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/B2D9DTfwIx8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>196</itunes:order>
+      <itunes:order>202</itunes:order>
     </item>
     <item>
       <guid>M-DMyuGmeIQ</guid>
@@ -1327,7 +2445,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/M-DMyuGmeIQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>197</itunes:order>
+      <itunes:order>203</itunes:order>
+    </item>
+    <item>
+      <guid>vxlIocKKdUc</guid>
+      <title>ULM 18 - Sard !</title>
+      <link>https://youtube.com/watch?v=vxlIocKKdUc</link>
+      <description> </description>
+      <pubDate>Wed, 14 Feb 2024 17:00:48 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vxlIocKKdUc.mp3" length="4663677" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>ULM 18 - Sard !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vxlIocKKdUc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>204</itunes:order>
+    </item>
+    <item>
+      <guid>KIla5NsddAI</guid>
+      <title>Majorer les COURS !</title>
+      <link>https://youtube.com/watch?v=KIla5NsddAI</link>
+      <description> </description>
+      <pubDate>Tue, 13 Feb 2024 17:00:15 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/KIla5NsddAI.mp3" length="4691109" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Majorer les COURS !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/KIla5NsddAI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>205</itunes:order>
     </item>
     <item>
       <guid>CnHStVBehJc</guid>
@@ -1342,7 +2490,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/CnHStVBehJc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>200</itunes:order>
+      <itunes:order>206</itunes:order>
     </item>
     <item>
       <guid>8vX8sibkbok</guid>
@@ -1357,7 +2505,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/8vX8sibkbok/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>201</itunes:order>
+      <itunes:order>207</itunes:order>
     </item>
     <item>
       <guid>aFAO62fVM5I</guid>
@@ -1372,7 +2520,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/aFAO62fVM5I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>202</itunes:order>
+      <itunes:order>208</itunes:order>
     </item>
     <item>
       <guid>CkMSvVsj52U</guid>
@@ -1387,7 +2535,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/CkMSvVsj52U/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>203</itunes:order>
+      <itunes:order>209</itunes:order>
     </item>
     <item>
       <guid>4KDVPJ1FxCE</guid>
@@ -1402,7 +2550,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/4KDVPJ1FxCE/hqdefault.jpg"></itunes:image>
       <itunes:duration>8:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>204</itunes:order>
+      <itunes:order>210</itunes:order>
     </item>
     <item>
       <guid>4KFPaVxYBIE</guid>
@@ -1417,7 +2565,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/4KFPaVxYBIE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>205</itunes:order>
+      <itunes:order>211</itunes:order>
     </item>
     <item>
       <guid>VGHWCXqftps</guid>
@@ -1432,7 +2580,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/VGHWCXqftps/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>206</itunes:order>
+      <itunes:order>212</itunes:order>
     </item>
     <item>
       <guid>LftkYhpJiA4</guid>
@@ -1447,7 +2595,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/LftkYhpJiA4/hqdefault.jpg"></itunes:image>
       <itunes:duration>6:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>207</itunes:order>
+      <itunes:order>213</itunes:order>
     </item>
     <item>
       <guid>9JoxJghGMUI</guid>
@@ -1462,7 +2610,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/9JoxJghGMUI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>208</itunes:order>
+      <itunes:order>214</itunes:order>
     </item>
     <item>
       <guid>bqZsBTDPaCs</guid>
@@ -1477,7 +2625,37 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/bqZsBTDPaCs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>13:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>209</itunes:order>
+      <itunes:order>215</itunes:order>
+    </item>
+    <item>
+      <guid>AqI7EnaNmEE</guid>
+      <title>Isométries : linéaire ???</title>
+      <link>https://youtube.com/watch?v=AqI7EnaNmEE</link>
+      <description> </description>
+      <pubDate>Thu, 01 Feb 2024 17:00:08 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/AqI7EnaNmEE.mp3" length="44656701" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Isométries : linéaire ???</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/AqI7EnaNmEE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:22:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>216</itunes:order>
+    </item>
+    <item>
+      <guid>IEHFOpk341E</guid>
+      <title>Maths* au tableau !!</title>
+      <link>https://youtube.com/watch?v=IEHFOpk341E</link>
+      <description> </description>
+      <pubDate>Thu, 01 Feb 2024 05:58:19 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/IEHFOpk341E.mp3" length="26637597" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Maths* au tableau !!</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/IEHFOpk341E/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>48:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>217</itunes:order>
     </item>
     <item>
       <guid>_waMz8NrUBs</guid>
@@ -1492,7 +2670,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/_waMz8NrUBs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>212</itunes:order>
+      <itunes:order>218</itunes:order>
     </item>
     <item>
       <guid>iULzqWYH3Ac</guid>
@@ -1507,7 +2685,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/iULzqWYH3Ac/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>213</itunes:order>
+      <itunes:order>219</itunes:order>
+    </item>
+    <item>
+      <guid>RRowlDJzxug</guid>
+      <title>Maths : le MYTHE du génie</title>
+      <link>https://youtube.com/watch?v=RRowlDJzxug</link>
+      <description> </description>
+      <pubDate>Mon, 29 Jan 2024 17:00:22 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/RRowlDJzxug.mp3" length="3618765" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Maths : le MYTHE du génie</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/RRowlDJzxug/hqdefault.jpg"></itunes:image>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>220</itunes:order>
     </item>
     <item>
       <guid>21WOtCpox1o</guid>
@@ -1522,7 +2715,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/21WOtCpox1o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>215</itunes:order>
+      <itunes:order>221</itunes:order>
     </item>
     <item>
       <guid>S72c67wCkI8</guid>
@@ -1537,7 +2730,22 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/S72c67wCkI8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>216</itunes:order>
+      <itunes:order>222</itunes:order>
+    </item>
+    <item>
+      <guid>w_ufRVGfwG0</guid>
+      <title>Sup : Polynômes - Rigidité</title>
+      <link>https://youtube.com/watch?v=w_ufRVGfwG0</link>
+      <description> </description>
+      <pubDate>Sat, 27 Jan 2024 12:08:26 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/w_ufRVGfwG0.mp3" length="5454957" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sup : Polynômes - Rigidité</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/w_ufRVGfwG0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>223</itunes:order>
     </item>
     <item>
       <guid>gpgw8YxlycI</guid>
@@ -1552,7 +2760,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/gpgw8YxlycI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>218</itunes:order>
+      <itunes:order>224</itunes:order>
     </item>
     <item>
       <guid>-Emws_SavnU</guid>
@@ -1567,7 +2775,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/-Emws_SavnU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>219</itunes:order>
+      <itunes:order>225</itunes:order>
     </item>
     <item>
       <guid>aNpq6bpWanc</guid>
@@ -1582,7 +2790,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/aNpq6bpWanc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>220</itunes:order>
+      <itunes:order>226</itunes:order>
     </item>
     <item>
       <guid>DAI1pPi2kt8</guid>
@@ -1597,7 +2805,52 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/DAI1pPi2kt8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>221</itunes:order>
+      <itunes:order>227</itunes:order>
+    </item>
+    <item>
+      <guid>zQfJFRKQadY</guid>
+      <title>Comment MAJORER la sup</title>
+      <link>https://youtube.com/watch?v=zQfJFRKQadY</link>
+      <description> </description>
+      <pubDate>Wed, 17 Jan 2024 17:00:48 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zQfJFRKQadY.mp3" length="4169157" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Comment MAJORER la sup</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zQfJFRKQadY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>228</itunes:order>
+    </item>
+    <item>
+      <guid>vmsWTOXNLkA</guid>
+      <title>GALOIS : LA RESOLUBILITE DES ÉQUATIONS</title>
+      <link>https://youtube.com/watch?v=vmsWTOXNLkA</link>
+      <description> </description>
+      <pubDate>Fri, 12 Jan 2024 17:00:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vmsWTOXNLkA.mp3" length="28916133" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>GALOIS : LA RESOLUBILITE DES ÉQUATIONS</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vmsWTOXNLkA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>52:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>229</itunes:order>
+    </item>
+    <item>
+      <guid>eU3kCYEySBA</guid>
+      <title>GROUPES : Quotients, dérivés, résolubles</title>
+      <link>https://youtube.com/watch?v=eU3kCYEySBA</link>
+      <description>Merci à N.Tosel pour le sujet</description>
+      <pubDate>Tue, 09 Jan 2024 17:00:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/eU3kCYEySBA.mp3" length="28877661" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>GROUPES : Quotients, dérivés, résolubles</itunes:subtitle>
+      <itunes:summary><![CDATA[Merci à N.Tosel pour le sujet]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/eU3kCYEySBA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>52:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>230</itunes:order>
     </item>
     <item>
       <guid>IkRhfwBnLbg</guid>
@@ -1612,7 +2865,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/IkRhfwBnLbg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>225</itunes:order>
+      <itunes:order>231</itunes:order>
     </item>
     <item>
       <guid>JEmT0FJjxhM</guid>
@@ -1627,7 +2880,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/JEmT0FJjxhM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>226</itunes:order>
+      <itunes:order>232</itunes:order>
     </item>
     <item>
       <guid>3NwjgogFSkw</guid>
@@ -1642,7 +2895,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/3NwjgogFSkw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>227</itunes:order>
+      <itunes:order>233</itunes:order>
     </item>
     <item>
       <guid>mlHTNWyKLqQ</guid>
@@ -1657,7 +2910,7 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:image href="https://i.ytimg.com/vi/mlHTNWyKLqQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>228</itunes:order>
+      <itunes:order>234</itunes:order>
     </item>
     <item>
       <guid>-q1pKgX1iIU</guid>
@@ -1674,7 +2927,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/-q1pKgX1iIU/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:19:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>229</itunes:order>
+      <itunes:order>235</itunes:order>
     </item>
     <item>
       <guid>5lN_dnXuWgM</guid>
@@ -1689,7 +2942,37 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/5lN_dnXuWgM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>230</itunes:order>
+      <itunes:order>236</itunes:order>
+    </item>
+    <item>
+      <guid>vVxguV8DXa8</guid>
+      <title>Arithmétique : 2024 divise un nombre avec que des 4</title>
+      <link>https://youtube.com/watch?v=vVxguV8DXa8</link>
+      <description> </description>
+      <pubDate>Sun, 24 Dec 2023 17:00:40 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vVxguV8DXa8.mp3" length="1884237" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Arithmétique : 2024 divise un nombre avec que des 4</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vVxguV8DXa8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>237</itunes:order>
+    </item>
+    <item>
+      <guid>qvnB8xvdWKo</guid>
+      <title>Sommes de puissances</title>
+      <link>https://youtube.com/watch?v=qvnB8xvdWKo</link>
+      <description> </description>
+      <pubDate>Fri, 22 Dec 2023 17:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/qvnB8xvdWKo.mp3" length="3770061" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sommes de puissances</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/qvnB8xvdWKo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>238</itunes:order>
     </item>
     <item>
       <guid>TZnIsWmYOik</guid>
@@ -1704,7 +2987,52 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/TZnIsWmYOik/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>233</itunes:order>
+      <itunes:order>239</itunes:order>
+    </item>
+    <item>
+      <guid>y9AOKCmCLuQ</guid>
+      <title>Quel livres acheter en prépa ?</title>
+      <link>https://youtube.com/watch?v=y9AOKCmCLuQ</link>
+      <description> </description>
+      <pubDate>Sun, 17 Dec 2023 17:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/y9AOKCmCLuQ.mp3" length="2122893" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Quel livres acheter en prépa ?</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/y9AOKCmCLuQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>240</itunes:order>
+    </item>
+    <item>
+      <guid>sYXF-gpnw48</guid>
+      <title>Sup - Caractérisation de e</title>
+      <link>https://youtube.com/watch?v=sYXF-gpnw48</link>
+      <description> </description>
+      <pubDate>Fri, 15 Dec 2023 17:01:00 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/sYXF-gpnw48.mp3" length="5185269" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sup - Caractérisation de e</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/sYXF-gpnw48/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>241</itunes:order>
+    </item>
+    <item>
+      <guid>uWs_KIaqjG8</guid>
+      <title>Ulm 12 - Algebre de l’enfer</title>
+      <link>https://youtube.com/watch?v=uWs_KIaqjG8</link>
+      <description> </description>
+      <pubDate>Wed, 13 Dec 2023 17:00:49 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/uWs_KIaqjG8.mp3" length="13947213" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Ulm 12 - Algebre de l’enfer</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/uWs_KIaqjG8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>18:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>242</itunes:order>
     </item>
     <item>
       <guid>LeOyLoc2mK4</guid>
@@ -1719,7 +3047,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/LeOyLoc2mK4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>237</itunes:order>
+      <itunes:order>243</itunes:order>
     </item>
     <item>
       <guid>BxzQTFqlGgQ</guid>
@@ -1734,7 +3062,52 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/BxzQTFqlGgQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>16:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>238</itunes:order>
+      <itunes:order>244</itunes:order>
+    </item>
+    <item>
+      <guid>q4h0g6_kwfQ</guid>
+      <title>Avoir 20/20 aux écrits des ens</title>
+      <link>https://youtube.com/watch?v=q4h0g6_kwfQ</link>
+      <description> </description>
+      <pubDate>Thu, 07 Dec 2023 17:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/q4h0g6_kwfQ.mp3" length="2706045" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Avoir 20/20 aux écrits des ens</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/q4h0g6_kwfQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>3:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>245</itunes:order>
+    </item>
+    <item>
+      <guid>vmCkjcT1jvo</guid>
+      <title>Avoir 20 a l’écrit de l’X</title>
+      <link>https://youtube.com/watch?v=vmCkjcT1jvo</link>
+      <description> </description>
+      <pubDate>Tue, 05 Dec 2023 17:00:41 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vmCkjcT1jvo.mp3" length="4616997" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Avoir 20 a l’écrit de l’X</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vmCkjcT1jvo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>246</itunes:order>
+    </item>
+    <item>
+      <guid>t6_-fWlRWeo</guid>
+      <title>Ulm 10 - Algèbres réelles</title>
+      <link>https://youtube.com/watch?v=t6_-fWlRWeo</link>
+      <description> </description>
+      <pubDate>Sun, 03 Dec 2023 17:00:43 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/t6_-fWlRWeo.mp3" length="6989901" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Ulm 10 - Algèbres réelles</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/t6_-fWlRWeo/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>247</itunes:order>
     </item>
     <item>
       <guid>TaU6SHAfTY4</guid>
@@ -1749,7 +3122,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/TaU6SHAfTY4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>242</itunes:order>
+      <itunes:order>248</itunes:order>
+    </item>
+    <item>
+      <guid>pDUJdYpqji4</guid>
+      <title>Ulm 8 - Borne sur les dérivées</title>
+      <link>https://youtube.com/watch?v=pDUJdYpqji4</link>
+      <description> </description>
+      <pubDate>Wed, 29 Nov 2023 17:00:45 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pDUJdYpqji4.mp3" length="3521613" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Ulm 8 - Borne sur les dérivées</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pDUJdYpqji4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>249</itunes:order>
     </item>
     <item>
       <guid>Ykpo-f3Qsng</guid>
@@ -1764,7 +3152,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Ykpo-f3Qsng/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>244</itunes:order>
+      <itunes:order>250</itunes:order>
     </item>
     <item>
       <guid>jCWCNsRvH_o</guid>
@@ -1779,7 +3167,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/jCWCNsRvH_o/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>245</itunes:order>
+      <itunes:order>251</itunes:order>
     </item>
     <item>
       <guid>ClvdCLV_bxY</guid>
@@ -1794,7 +3182,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ClvdCLV_bxY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>246</itunes:order>
+      <itunes:order>252</itunes:order>
     </item>
     <item>
       <guid>VL7VRdN74HI</guid>
@@ -1809,7 +3197,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/VL7VRdN74HI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>247</itunes:order>
+      <itunes:order>253</itunes:order>
     </item>
     <item>
       <guid>MXkydUqbfD0</guid>
@@ -1824,7 +3212,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/MXkydUqbfD0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>248</itunes:order>
+      <itunes:order>254</itunes:order>
     </item>
     <item>
       <guid>63WbhjkqkcU</guid>
@@ -1839,7 +3227,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/63WbhjkqkcU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>249</itunes:order>
+      <itunes:order>255</itunes:order>
     </item>
     <item>
       <guid>i9AbAsV2LEk</guid>
@@ -1854,7 +3242,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/i9AbAsV2LEk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>250</itunes:order>
+      <itunes:order>256</itunes:order>
     </item>
     <item>
       <guid>6zM_1-WDiD8</guid>
@@ -1869,7 +3257,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/6zM_1-WDiD8/hqdefault.jpg"></itunes:image>
       <itunes:duration>11:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>251</itunes:order>
+      <itunes:order>257</itunes:order>
+    </item>
+    <item>
+      <guid>wDRBLmHHGZc</guid>
+      <title>Ulm 7 - Qui engendre Sn ?</title>
+      <link>https://youtube.com/watch?v=wDRBLmHHGZc</link>
+      <description> </description>
+      <pubDate>Sat, 11 Nov 2023 17:00:45 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/wDRBLmHHGZc.mp3" length="8929941" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Ulm 7 - Qui engendre Sn ?</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/wDRBLmHHGZc/hqdefault.jpg"></itunes:image>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>258</itunes:order>
     </item>
     <item>
       <guid>gXdDx_c-JFg</guid>
@@ -1884,7 +3287,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/gXdDx_c-JFg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>253</itunes:order>
+      <itunes:order>259</itunes:order>
+    </item>
+    <item>
+      <guid>r33hIvs5j_E</guid>
+      <title>Topologie réelle - Caractérisation des fermés</title>
+      <link>https://youtube.com/watch?v=r33hIvs5j_E</link>
+      <description> </description>
+      <pubDate>Tue, 07 Nov 2023 17:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/r33hIvs5j_E.mp3" length="3813573" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Topologie réelle - Caractérisation des fermés</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/r33hIvs5j_E/hqdefault.jpg"></itunes:image>
+      <itunes:duration>5:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>260</itunes:order>
     </item>
     <item>
       <guid>EUaf4gQ2pRg</guid>
@@ -1899,7 +3317,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/EUaf4gQ2pRg/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>255</itunes:order>
+      <itunes:order>261</itunes:order>
     </item>
     <item>
       <guid>3_9NmmzQ4vI</guid>
@@ -1914,7 +3332,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/3_9NmmzQ4vI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>256</itunes:order>
+      <itunes:order>262</itunes:order>
+    </item>
+    <item>
+      <guid>yTL5rGa7-go</guid>
+      <title>Ulm 5 - presque-involutions</title>
+      <link>https://youtube.com/watch?v=yTL5rGa7-go</link>
+      <description> </description>
+      <pubDate>Wed, 01 Nov 2023 17:00:48 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/yTL5rGa7-go.mp3" length="3866589" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Ulm 5 - presque-involutions</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/yTL5rGa7-go/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>263</itunes:order>
     </item>
     <item>
       <guid>L7cm7OrZCyQ</guid>
@@ -1929,7 +3362,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/L7cm7OrZCyQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>258</itunes:order>
+      <itunes:order>264</itunes:order>
     </item>
     <item>
       <guid>1rApffDzopU</guid>
@@ -1944,7 +3377,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/1rApffDzopU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>259</itunes:order>
+      <itunes:order>265</itunes:order>
     </item>
     <item>
       <guid>e8WvTGvaNVw</guid>
@@ -1959,7 +3392,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/e8WvTGvaNVw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>260</itunes:order>
+      <itunes:order>266</itunes:order>
+    </item>
+    <item>
+      <guid>rft6z5Kzlqg</guid>
+      <title>Ulm 2 - Inversibilité universelle</title>
+      <link>https://youtube.com/watch?v=rft6z5Kzlqg</link>
+      <description> </description>
+      <pubDate>Sun, 22 Oct 2023 16:00:39 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/rft6z5Kzlqg.mp3" length="4378533" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Ulm 2 - Inversibilité universelle</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/rft6z5Kzlqg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>267</itunes:order>
     </item>
     <item>
       <guid>_HHWgW1jSjE</guid>
@@ -1974,7 +3422,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_HHWgW1jSjE/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>262</itunes:order>
+      <itunes:order>268</itunes:order>
     </item>
     <item>
       <guid>T1mH1kJJ9gc</guid>
@@ -1989,7 +3437,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/T1mH1kJJ9gc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>263</itunes:order>
+      <itunes:order>269</itunes:order>
+    </item>
+    <item>
+      <guid>u0TpraGKxBU</guid>
+      <title>Anneaux non abéliens</title>
+      <link>https://youtube.com/watch?v=u0TpraGKxBU</link>
+      <description> </description>
+      <pubDate>Mon, 16 Oct 2023 16:00:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/u0TpraGKxBU.mp3" length="3037917" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Anneaux non abéliens</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/u0TpraGKxBU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>270</itunes:order>
     </item>
     <item>
       <guid>ap13Znnjx7A</guid>
@@ -2004,7 +3467,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ap13Znnjx7A/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>265</itunes:order>
+      <itunes:order>271</itunes:order>
     </item>
     <item>
       <guid>0jW52zKzus8</guid>
@@ -2019,7 +3482,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/0jW52zKzus8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>266</itunes:order>
+      <itunes:order>272</itunes:order>
     </item>
     <item>
       <guid>UMz9dmT3lhk</guid>
@@ -2034,7 +3497,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/UMz9dmT3lhk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>267</itunes:order>
+      <itunes:order>273</itunes:order>
     </item>
     <item>
       <guid>LZyvoGtyeKg</guid>
@@ -2049,7 +3512,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/LZyvoGtyeKg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>268</itunes:order>
+      <itunes:order>274</itunes:order>
     </item>
     <item>
       <guid>GATvJ6HnoXI</guid>
@@ -2064,7 +3527,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/GATvJ6HnoXI/hqdefault.jpg"></itunes:image>
       <itunes:duration>10:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>269</itunes:order>
+      <itunes:order>275</itunes:order>
     </item>
     <item>
       <guid>ko8vH-4gLCU</guid>
@@ -2079,7 +3542,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ko8vH-4gLCU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>270</itunes:order>
+      <itunes:order>276</itunes:order>
+    </item>
+    <item>
+      <guid>xVc-40_9qZs</guid>
+      <title>Topologie des fonctions compactes</title>
+      <link>https://youtube.com/watch?v=xVc-40_9qZs</link>
+      <description> </description>
+      <pubDate>Sun, 08 Oct 2023 14:32:02 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/xVc-40_9qZs.mp3" length="3449925" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Topologie des fonctions compactes</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xVc-40_9qZs/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>277</itunes:order>
     </item>
     <item>
       <guid>126Xh2KiyI4</guid>
@@ -2094,7 +3572,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/126Xh2KiyI4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>272</itunes:order>
+      <itunes:order>278</itunes:order>
     </item>
     <item>
       <guid>ewr5e7xLSBc</guid>
@@ -2109,7 +3587,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ewr5e7xLSBc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>273</itunes:order>
+      <itunes:order>279</itunes:order>
     </item>
     <item>
       <guid>A7kBXjPA9jk</guid>
@@ -2124,7 +3602,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/A7kBXjPA9jk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>274</itunes:order>
+      <itunes:order>280</itunes:order>
+    </item>
+    <item>
+      <guid>rlQ-GQMlaeM</guid>
+      <title>Topologie des polynômes premiers</title>
+      <link>https://youtube.com/watch?v=rlQ-GQMlaeM</link>
+      <description> </description>
+      <pubDate>Sat, 30 Sep 2023 16:00:42 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/rlQ-GQMlaeM.mp3" length="3952485" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Topologie des polynômes premiers</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/rlQ-GQMlaeM/hqdefault.jpg"></itunes:image>
+      <itunes:duration>5:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>281</itunes:order>
     </item>
     <item>
       <guid>dEvz7HQjbYk</guid>
@@ -2139,7 +3632,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/dEvz7HQjbYk/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>276</itunes:order>
+      <itunes:order>282</itunes:order>
+    </item>
+    <item>
+      <guid>x0xv6SDK0LU</guid>
+      <title>Théorème de sylow</title>
+      <link>https://youtube.com/watch?v=x0xv6SDK0LU</link>
+      <description> </description>
+      <pubDate>Fri, 29 Sep 2023 16:00:45 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/x0xv6SDK0LU.mp3" length="3951285" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Théorème de sylow</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/x0xv6SDK0LU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>283</itunes:order>
     </item>
     <item>
       <guid>kRHQOn1QE8Q</guid>
@@ -2154,7 +3662,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/kRHQOn1QE8Q/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>278</itunes:order>
+      <itunes:order>284</itunes:order>
     </item>
     <item>
       <guid>KPng0QUZl-c</guid>
@@ -2169,7 +3677,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/KPng0QUZl-c/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>279</itunes:order>
+      <itunes:order>285</itunes:order>
     </item>
     <item>
       <guid>CnrtmLPtBhU</guid>
@@ -2184,7 +3692,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/CnrtmLPtBhU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>280</itunes:order>
+      <itunes:order>286</itunes:order>
     </item>
     <item>
       <guid>FPmBe3j3dRc</guid>
@@ -2199,7 +3707,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/FPmBe3j3dRc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>281</itunes:order>
+      <itunes:order>287</itunes:order>
     </item>
     <item>
       <guid>YinJ_RGy2_E</guid>
@@ -2214,7 +3722,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/YinJ_RGy2_E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>282</itunes:order>
+      <itunes:order>288</itunes:order>
     </item>
     <item>
       <guid>6QzWsCTZOyI</guid>
@@ -2229,7 +3737,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/6QzWsCTZOyI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>283</itunes:order>
+      <itunes:order>289</itunes:order>
     </item>
     <item>
       <guid>94QAF1DD2_8</guid>
@@ -2244,7 +3752,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/94QAF1DD2_8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>284</itunes:order>
+      <itunes:order>290</itunes:order>
     </item>
     <item>
       <guid>dGdx5Lmct78</guid>
@@ -2259,7 +3767,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/dGdx5Lmct78/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>285</itunes:order>
+      <itunes:order>291</itunes:order>
     </item>
     <item>
       <guid>G36g3VeEv9I</guid>
@@ -2274,7 +3782,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/G36g3VeEv9I/hqdefault.jpg"></itunes:image>
       <itunes:duration>8:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>286</itunes:order>
+      <itunes:order>292</itunes:order>
     </item>
     <item>
       <guid>2bFq0SVDkgw</guid>
@@ -2289,7 +3797,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/2bFq0SVDkgw/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>287</itunes:order>
+      <itunes:order>293</itunes:order>
+    </item>
+    <item>
+      <guid>uZJoesOTqi0</guid>
+      <title>Méthode pour exercices durs</title>
+      <link>https://youtube.com/watch?v=uZJoesOTqi0</link>
+      <description> </description>
+      <pubDate>Fri, 08 Sep 2023 19:46:05 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/uZJoesOTqi0.mp3" length="12733773" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Méthode pour exercices durs</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/uZJoesOTqi0/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>294</itunes:order>
     </item>
     <item>
       <guid>9zZhuBM9PTc</guid>
@@ -2304,7 +3827,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/9zZhuBM9PTc/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>289</itunes:order>
+      <itunes:order>295</itunes:order>
     </item>
     <item>
       <guid>MKMFFVH1W9U</guid>
@@ -2319,7 +3842,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/MKMFFVH1W9U/hqdefault.jpg"></itunes:image>
       <itunes:duration>24:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>290</itunes:order>
+      <itunes:order>296</itunes:order>
     </item>
     <item>
       <guid>NmGSYH6Hs28</guid>
@@ -2334,7 +3857,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/NmGSYH6Hs28/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>291</itunes:order>
+      <itunes:order>297</itunes:order>
     </item>
     <item>
       <guid>ACZ2Vr3zMWE</guid>
@@ -2349,7 +3872,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ACZ2Vr3zMWE/hqdefault.jpg"></itunes:image>
       <itunes:duration>8:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>292</itunes:order>
+      <itunes:order>298</itunes:order>
     </item>
     <item>
       <guid>T7fBMf6HDac</guid>
@@ -2364,7 +3887,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/T7fBMf6HDac/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>293</itunes:order>
+      <itunes:order>299</itunes:order>
     </item>
     <item>
       <guid>e4wNW0MBBH8</guid>
@@ -2379,7 +3902,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/e4wNW0MBBH8/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>294</itunes:order>
+      <itunes:order>300</itunes:order>
     </item>
     <item>
       <guid>OjrkRFIC0RU</guid>
@@ -2394,7 +3917,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OjrkRFIC0RU/hqdefault.jpg"></itunes:image>
       <itunes:duration>8:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>295</itunes:order>
+      <itunes:order>301</itunes:order>
     </item>
     <item>
       <guid>kjWmNVspusQ</guid>
@@ -2409,7 +3932,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/kjWmNVspusQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>296</itunes:order>
+      <itunes:order>302</itunes:order>
     </item>
     <item>
       <guid>duts0uMTfY0</guid>
@@ -2424,7 +3947,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/duts0uMTfY0/hqdefault.jpg"></itunes:image>
       <itunes:duration>9:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>297</itunes:order>
+      <itunes:order>303</itunes:order>
     </item>
     <item>
       <guid>MVSWeBDuNzQ</guid>
@@ -2439,7 +3962,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/MVSWeBDuNzQ/hqdefault.jpg"></itunes:image>
       <itunes:duration>8:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>298</itunes:order>
+      <itunes:order>304</itunes:order>
     </item>
     <item>
       <guid>H9jzK0crfa4</guid>
@@ -2454,7 +3977,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/H9jzK0crfa4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>299</itunes:order>
+      <itunes:order>305</itunes:order>
     </item>
     <item>
       <guid>Ev1iXm_4tuc</guid>
@@ -2469,7 +3992,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Ev1iXm_4tuc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>300</itunes:order>
+      <itunes:order>306</itunes:order>
     </item>
     <item>
       <guid>YKY31xwfd9I</guid>
@@ -2484,7 +4007,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/YKY31xwfd9I/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>301</itunes:order>
+      <itunes:order>307</itunes:order>
     </item>
     <item>
       <guid>_khTAbu1-zI</guid>
@@ -2499,7 +4022,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_khTAbu1-zI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>302</itunes:order>
+      <itunes:order>308</itunes:order>
     </item>
     <item>
       <guid>my-ITfdwDX0</guid>
@@ -2514,7 +4037,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/my-ITfdwDX0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>18:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>303</itunes:order>
+      <itunes:order>309</itunes:order>
     </item>
     <item>
       <guid>PxGZ2w4VJcY</guid>
@@ -2529,7 +4052,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/PxGZ2w4VJcY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>304</itunes:order>
+      <itunes:order>310</itunes:order>
     </item>
     <item>
       <guid>DZ6cntDJfz4</guid>
@@ -2544,7 +4067,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/DZ6cntDJfz4/hqdefault.jpg"></itunes:image>
       <itunes:duration>8:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>305</itunes:order>
+      <itunes:order>311</itunes:order>
     </item>
     <item>
       <guid>lotdLhjVtCI</guid>
@@ -2559,7 +4082,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/lotdLhjVtCI/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>306</itunes:order>
+      <itunes:order>312</itunes:order>
     </item>
     <item>
       <guid>Aol8AImRu8w</guid>
@@ -2574,7 +4097,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Aol8AImRu8w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>307</itunes:order>
+      <itunes:order>313</itunes:order>
+    </item>
+    <item>
+      <guid>vbHaJQNnXrI</guid>
+      <title>Topologie - cpa dans un convexe</title>
+      <link>https://youtube.com/watch?v=vbHaJQNnXrI</link>
+      <description> </description>
+      <pubDate>Sun, 20 Aug 2023 14:00:27 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vbHaJQNnXrI.mp3" length="5259885" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Topologie - cpa dans un convexe</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vbHaJQNnXrI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>7:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>314</itunes:order>
     </item>
     <item>
       <guid>Ep233N9D-o0</guid>
@@ -2589,7 +4127,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Ep233N9D-o0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>309</itunes:order>
+      <itunes:order>315</itunes:order>
     </item>
     <item>
       <guid>j3Q17tgK0nM</guid>
@@ -2604,7 +4142,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/j3Q17tgK0nM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>310</itunes:order>
+      <itunes:order>316</itunes:order>
     </item>
     <item>
       <guid>AUq7TXKN0D4</guid>
@@ -2619,7 +4157,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/AUq7TXKN0D4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>311</itunes:order>
+      <itunes:order>317</itunes:order>
     </item>
     <item>
       <guid>Tk0sWbd7doU</guid>
@@ -2634,7 +4172,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Tk0sWbd7doU/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>312</itunes:order>
+      <itunes:order>318</itunes:order>
     </item>
     <item>
       <guid>eNZyHhs40MQ</guid>
@@ -2649,7 +4187,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/eNZyHhs40MQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>313</itunes:order>
+      <itunes:order>319</itunes:order>
     </item>
     <item>
       <guid>ofwpwkaCHJk</guid>
@@ -2664,7 +4202,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ofwpwkaCHJk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>314</itunes:order>
+      <itunes:order>320</itunes:order>
     </item>
     <item>
       <guid>ZhbdexkZxBk</guid>
@@ -2679,7 +4217,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZhbdexkZxBk/hqdefault.jpg"></itunes:image>
       <itunes:duration>7:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>315</itunes:order>
+      <itunes:order>321</itunes:order>
     </item>
     <item>
       <guid>bIv_81W5YNI</guid>
@@ -2694,7 +4232,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/bIv_81W5YNI/hqdefault.jpg"></itunes:image>
       <itunes:duration>7:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>316</itunes:order>
+      <itunes:order>322</itunes:order>
     </item>
     <item>
       <guid>7ILbu6x-aS8</guid>
@@ -2709,7 +4247,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/7ILbu6x-aS8/hqdefault.jpg"></itunes:image>
       <itunes:duration>0:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>317</itunes:order>
+      <itunes:order>323</itunes:order>
+    </item>
+    <item>
+      <guid>qsW872J4Kdw</guid>
+      <title>Exercice corrigé - Polynôme positif sur R</title>
+      <link>https://youtube.com/watch?v=qsW872J4Kdw</link>
+      <description> </description>
+      <pubDate>Fri, 18 Aug 2023 14:54:07 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/qsW872J4Kdw.mp3" length="2723277" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Exercice corrigé - Polynôme positif sur R</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/qsW872J4Kdw/hqdefault.jpg"></itunes:image>
+      <itunes:duration>3:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>324</itunes:order>
     </item>
     <item>
       <guid>Fj-dvAwDGCM</guid>
@@ -2724,7 +4277,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Fj-dvAwDGCM/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>319</itunes:order>
+      <itunes:order>325</itunes:order>
     </item>
     <item>
       <guid>-cSR8h3adGw</guid>
@@ -2739,7 +4292,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/-cSR8h3adGw/hqdefault.jpg"></itunes:image>
       <itunes:duration>2:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>320</itunes:order>
+      <itunes:order>326</itunes:order>
     </item>
     <item>
       <guid>csVZypJaAJc</guid>
@@ -2754,7 +4307,37 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/csVZypJaAJc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>321</itunes:order>
+      <itunes:order>327</itunes:order>
+    </item>
+    <item>
+      <guid>vtdE1wgoEtA</guid>
+      <title>Se poser ses propres questions</title>
+      <link>https://youtube.com/watch?v=vtdE1wgoEtA</link>
+      <description> </description>
+      <pubDate>Tue, 15 Aug 2023 17:39:41 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vtdE1wgoEtA.mp3" length="805653" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Se poser ses propres questions</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vtdE1wgoEtA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>328</itunes:order>
+    </item>
+    <item>
+      <guid>zMjovEArULU</guid>
+      <title>Densité de gln</title>
+      <link>https://youtube.com/watch?v=zMjovEArULU</link>
+      <description> </description>
+      <pubDate>Mon, 14 Aug 2023 16:00:48 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zMjovEArULU.mp3" length="5977533" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Densité de gln</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zMjovEArULU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>329</itunes:order>
     </item>
     <item>
       <guid>PDyV05NwO58</guid>
@@ -2769,7 +4352,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/PDyV05NwO58/hqdefault.jpg"></itunes:image>
       <itunes:duration>0:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>324</itunes:order>
+      <itunes:order>330</itunes:order>
     </item>
     <item>
       <guid>G8HQf8N5alU</guid>
@@ -2784,7 +4367,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/G8HQf8N5alU/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>325</itunes:order>
+      <itunes:order>331</itunes:order>
+    </item>
+    <item>
+      <guid>rntIKk9OgMA</guid>
+      <title>Idéaux entiers</title>
+      <link>https://youtube.com/watch?v=rntIKk9OgMA</link>
+      <description> </description>
+      <pubDate>Sun, 13 Aug 2023 13:29:31 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/rntIKk9OgMA.mp3" length="4504989" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Idéaux entiers</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/rntIKk9OgMA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>332</itunes:order>
     </item>
     <item>
       <guid>Nkejnch5qzg</guid>
@@ -2799,7 +4397,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Nkejnch5qzg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>327</itunes:order>
+      <itunes:order>333</itunes:order>
     </item>
     <item>
       <guid>VUjzPWrRBOQ</guid>
@@ -2814,7 +4412,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/VUjzPWrRBOQ/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>328</itunes:order>
+      <itunes:order>334</itunes:order>
     </item>
     <item>
       <guid>bANhEm5XJPg</guid>
@@ -2829,7 +4427,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/bANhEm5XJPg/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>329</itunes:order>
+      <itunes:order>335</itunes:order>
     </item>
     <item>
       <guid>mH_rAv8kDY0</guid>
@@ -2844,7 +4442,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/mH_rAv8kDY0/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>330</itunes:order>
+      <itunes:order>336</itunes:order>
     </item>
     <item>
       <guid>5_7Df_zIzHQ</guid>
@@ -2859,7 +4457,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/5_7Df_zIzHQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>331</itunes:order>
+      <itunes:order>337</itunes:order>
     </item>
     <item>
       <guid>fgpiHW64BG8</guid>
@@ -2874,7 +4472,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/fgpiHW64BG8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>332</itunes:order>
+      <itunes:order>338</itunes:order>
     </item>
     <item>
       <guid>GkMRUWwvXjQ</guid>
@@ -2889,7 +4487,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/GkMRUWwvXjQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>333</itunes:order>
+      <itunes:order>339</itunes:order>
     </item>
     <item>
       <guid>81QqfXjl5QM</guid>
@@ -2904,7 +4502,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/81QqfXjl5QM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>334</itunes:order>
+      <itunes:order>340</itunes:order>
     </item>
     <item>
       <guid>jAoPMf0KiMc</guid>
@@ -2919,7 +4517,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/jAoPMf0KiMc/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>335</itunes:order>
+      <itunes:order>341</itunes:order>
     </item>
     <item>
       <guid>lXBKFYqVx3g</guid>
@@ -2934,7 +4532,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/lXBKFYqVx3g/maxresdefault.jpg"></itunes:image>
       <itunes:duration>8:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>336</itunes:order>
+      <itunes:order>342</itunes:order>
     </item>
     <item>
       <guid>eECxVjA0S8E</guid>
@@ -2949,7 +4547,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/eECxVjA0S8E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>337</itunes:order>
+      <itunes:order>343</itunes:order>
     </item>
     <item>
       <guid>IoF31y4NvS8</guid>
@@ -2964,7 +4562,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/IoF31y4NvS8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>338</itunes:order>
+      <itunes:order>344</itunes:order>
     </item>
     <item>
       <guid>_3FNuhhpETg</guid>
@@ -2979,7 +4577,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_3FNuhhpETg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>339</itunes:order>
+      <itunes:order>345</itunes:order>
     </item>
     <item>
       <guid>RzLlQhj0fA4</guid>
@@ -2994,7 +4592,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/RzLlQhj0fA4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>9:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>340</itunes:order>
+      <itunes:order>346</itunes:order>
     </item>
     <item>
       <guid>bOn_kb91edc</guid>
@@ -3009,7 +4607,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/bOn_kb91edc/hqdefault.jpg"></itunes:image>
       <itunes:duration>7:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>341</itunes:order>
+      <itunes:order>347</itunes:order>
     </item>
     <item>
       <guid>De_p03bLkgs</guid>
@@ -3024,7 +4622,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/De_p03bLkgs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>6:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>342</itunes:order>
+      <itunes:order>348</itunes:order>
     </item>
     <item>
       <guid>VjDq5metkQg</guid>
@@ -3039,7 +4637,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/VjDq5metkQg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>343</itunes:order>
+      <itunes:order>349</itunes:order>
     </item>
     <item>
       <guid>gHQqXkrFnvA</guid>
@@ -3054,7 +4652,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/gHQqXkrFnvA/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>344</itunes:order>
+      <itunes:order>350</itunes:order>
+    </item>
+    <item>
+      <guid>vD1Ds3X8iWc</guid>
+      <title>Divergence</title>
+      <link>https://youtube.com/watch?v=vD1Ds3X8iWc</link>
+      <description> </description>
+      <pubDate>Wed, 19 Jul 2023 16:00:51 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vD1Ds3X8iWc.mp3" length="1987629" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Divergence</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vD1Ds3X8iWc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>2:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>351</itunes:order>
     </item>
     <item>
       <guid>mOvhli0a_A8</guid>
@@ -3069,7 +4682,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/mOvhli0a_A8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>346</itunes:order>
+      <itunes:order>352</itunes:order>
     </item>
     <item>
       <guid>FtPkR-cAi0k</guid>
@@ -3084,7 +4697,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/FtPkR-cAi0k/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>347</itunes:order>
+      <itunes:order>353</itunes:order>
     </item>
     <item>
       <guid>LFCJrBbOrio</guid>
@@ -3099,7 +4712,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/LFCJrBbOrio/hqdefault.jpg"></itunes:image>
       <itunes:duration>6:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>348</itunes:order>
+      <itunes:order>354</itunes:order>
     </item>
     <item>
       <guid>PfJnXUlrd6Y</guid>
@@ -3114,7 +4727,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/PfJnXUlrd6Y/hqdefault.jpg"></itunes:image>
       <itunes:duration>7:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>349</itunes:order>
+      <itunes:order>355</itunes:order>
+    </item>
+    <item>
+      <guid>pgjJvA_Tprk</guid>
+      <title>Un carré contient toute suite sommant à 1</title>
+      <link>https://youtube.com/watch?v=pgjJvA_Tprk</link>
+      <description> </description>
+      <pubDate>Fri, 14 Jul 2023 16:00:41 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pgjJvA_Tprk.mp3" length="4677981" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Un carré contient toute suite sommant à 1</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pgjJvA_Tprk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>356</itunes:order>
     </item>
     <item>
       <guid>cyEZM3TP874</guid>
@@ -3129,7 +4757,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/cyEZM3TP874/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>351</itunes:order>
+      <itunes:order>357</itunes:order>
     </item>
     <item>
       <guid>gCBPJaISBAk</guid>
@@ -3144,7 +4772,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/gCBPJaISBAk/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>352</itunes:order>
+      <itunes:order>358</itunes:order>
     </item>
     <item>
       <guid>YSA5zudqgQQ</guid>
@@ -3159,7 +4787,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/YSA5zudqgQQ/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>353</itunes:order>
+      <itunes:order>359</itunes:order>
     </item>
     <item>
       <guid>QixcFQqVetM</guid>
@@ -3174,7 +4802,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/QixcFQqVetM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>354</itunes:order>
+      <itunes:order>360</itunes:order>
     </item>
     <item>
       <guid>9Ap_aGI4V48</guid>
@@ -3189,7 +4817,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/9Ap_aGI4V48/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>355</itunes:order>
+      <itunes:order>361</itunes:order>
     </item>
     <item>
       <guid>BVPkFlLT_sw</guid>
@@ -3204,7 +4832,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/BVPkFlLT_sw/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>356</itunes:order>
+      <itunes:order>362</itunes:order>
     </item>
     <item>
       <guid>D_ZvsEmQQTY</guid>
@@ -3219,7 +4847,37 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/D_ZvsEmQQTY/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>357</itunes:order>
+      <itunes:order>363</itunes:order>
+    </item>
+    <item>
+      <guid>xkJrh8_6Q0E</guid>
+      <title>Distance à n</title>
+      <link>https://youtube.com/watch?v=xkJrh8_6Q0E</link>
+      <description> </description>
+      <pubDate>Sat, 08 Jul 2023 16:00:42 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/xkJrh8_6Q0E.mp3" length="3094869" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Distance à n</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xkJrh8_6Q0E/hqdefault.jpg"></itunes:image>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>364</itunes:order>
+    </item>
+    <item>
+      <guid>u7_Ird8-FWg</guid>
+      <title>Morphismes additifs a valeurs dans Z</title>
+      <link>https://youtube.com/watch?v=u7_Ird8-FWg</link>
+      <description> </description>
+      <pubDate>Fri, 07 Jul 2023 16:45:23 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/u7_Ird8-FWg.mp3" length="5977773" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Morphismes additifs a valeurs dans Z</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/u7_Ird8-FWg/hqdefault.jpg"></itunes:image>
+      <itunes:duration>7:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>365</itunes:order>
     </item>
     <item>
       <guid>EM8kZSHNus4</guid>
@@ -3234,7 +4892,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/EM8kZSHNus4/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>360</itunes:order>
+      <itunes:order>366</itunes:order>
     </item>
     <item>
       <guid>YQ8Etbu3PYs</guid>
@@ -3249,7 +4907,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/YQ8Etbu3PYs/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>361</itunes:order>
+      <itunes:order>367</itunes:order>
     </item>
     <item>
       <guid>e0A48vKV44M</guid>
@@ -3264,7 +4922,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/e0A48vKV44M/hqdefault.jpg"></itunes:image>
       <itunes:duration>2:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>362</itunes:order>
+      <itunes:order>368</itunes:order>
     </item>
     <item>
       <guid>Aajgk00r8jA</guid>
@@ -3279,7 +4937,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Aajgk00r8jA/hqdefault.jpg"></itunes:image>
       <itunes:duration>10:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>363</itunes:order>
+      <itunes:order>369</itunes:order>
     </item>
     <item>
       <guid>1wiMmc5EdOs</guid>
@@ -3294,7 +4952,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/1wiMmc5EdOs/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>364</itunes:order>
+      <itunes:order>370</itunes:order>
     </item>
     <item>
       <guid>OJSa5xWlGEo</guid>
@@ -3309,7 +4967,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OJSa5xWlGEo/hqdefault.jpg"></itunes:image>
       <itunes:duration>2:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>365</itunes:order>
+      <itunes:order>371</itunes:order>
     </item>
     <item>
       <guid>HQrPYFnQ8oQ</guid>
@@ -3324,7 +4982,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/HQrPYFnQ8oQ/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>366</itunes:order>
+      <itunes:order>372</itunes:order>
     </item>
     <item>
       <guid>n26cPqVAGxI</guid>
@@ -3339,7 +4997,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/n26cPqVAGxI/maxresdefault.jpg"></itunes:image>
       <itunes:duration>7:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>367</itunes:order>
+      <itunes:order>373</itunes:order>
     </item>
     <item>
       <guid>S9xKGzxMB58</guid>
@@ -3354,7 +5012,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/S9xKGzxMB58/maxresdefault.jpg"></itunes:image>
       <itunes:duration>3:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>368</itunes:order>
+      <itunes:order>374</itunes:order>
     </item>
     <item>
       <guid>C_iHHhGM8LM</guid>
@@ -3369,7 +5027,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/C_iHHhGM8LM/maxresdefault.jpg"></itunes:image>
       <itunes:duration>13:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>369</itunes:order>
+      <itunes:order>375</itunes:order>
     </item>
     <item>
       <guid>ZgDrIr8T2cc</guid>
@@ -3384,7 +5042,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZgDrIr8T2cc/hqdefault.jpg"></itunes:image>
       <itunes:duration>15:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>370</itunes:order>
+      <itunes:order>376</itunes:order>
     </item>
     <item>
       <guid>--DB3mtfr2c</guid>
@@ -3399,7 +5057,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/--DB3mtfr2c/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>371</itunes:order>
+      <itunes:order>377</itunes:order>
     </item>
     <item>
       <guid>_wx1eT2J2B4</guid>
@@ -3414,7 +5072,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/_wx1eT2J2B4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>5:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>372</itunes:order>
+      <itunes:order>378</itunes:order>
+    </item>
+    <item>
+      <guid>zW01mFnhCJE</guid>
+      <title>Bolzano Weierstrass réel</title>
+      <link>https://youtube.com/watch?v=zW01mFnhCJE</link>
+      <description> </description>
+      <pubDate>Tue, 27 Jun 2023 16:00:47 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zW01mFnhCJE.mp3" length="4385877" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Bolzano Weierstrass réel</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zW01mFnhCJE/hqdefault.jpg"></itunes:image>
+      <itunes:duration>5:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>379</itunes:order>
     </item>
     <item>
       <guid>a8d3o8Z16G4</guid>
@@ -3429,7 +5102,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/a8d3o8Z16G4/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>374</itunes:order>
+      <itunes:order>380</itunes:order>
     </item>
     <item>
       <guid>1__64pg1q6A</guid>
@@ -3444,7 +5117,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/1__64pg1q6A/hqdefault.jpg"></itunes:image>
       <itunes:duration>6:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>375</itunes:order>
+      <itunes:order>381</itunes:order>
     </item>
     <item>
       <guid>UgyZzmQhD9g</guid>
@@ -3459,7 +5132,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/UgyZzmQhD9g/hqdefault.jpg"></itunes:image>
       <itunes:duration>10:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>376</itunes:order>
+      <itunes:order>382</itunes:order>
     </item>
     <item>
       <guid>JD3SAQiU9W8</guid>
@@ -3474,7 +5147,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/JD3SAQiU9W8/hqdefault.jpg"></itunes:image>
       <itunes:duration>4:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>377</itunes:order>
+      <itunes:order>383</itunes:order>
     </item>
     <item>
       <guid>I3cDSC8707A</guid>
@@ -3489,7 +5162,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/I3cDSC8707A/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>378</itunes:order>
+      <itunes:order>384</itunes:order>
     </item>
     <item>
       <guid>iGeFVOTAd94</guid>
@@ -3504,7 +5177,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/iGeFVOTAd94/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>379</itunes:order>
+      <itunes:order>385</itunes:order>
     </item>
     <item>
       <guid>P8MpEh1H5a8</guid>
@@ -3519,7 +5192,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/P8MpEh1H5a8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>380</itunes:order>
+      <itunes:order>386</itunes:order>
     </item>
     <item>
       <guid>8UevVzs0T9w</guid>
@@ -3534,7 +5207,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/8UevVzs0T9w/maxresdefault.jpg"></itunes:image>
       <itunes:duration>4:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>381</itunes:order>
+      <itunes:order>387</itunes:order>
+    </item>
+    <item>
+      <guid>x6IqrXBHebA</guid>
+      <title>Coefficients des polynômes scindés</title>
+      <link>https://youtube.com/watch?v=x6IqrXBHebA</link>
+      <description> </description>
+      <pubDate>Tue, 13 Jun 2023 16:00:45 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/x6IqrXBHebA.mp3" length="1553733" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Coefficients des polynômes scindés</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/x6IqrXBHebA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>388</itunes:order>
     </item>
     <item>
       <guid>3orODpcJ-E0</guid>
@@ -3549,7 +5237,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/3orODpcJ-E0/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>383</itunes:order>
+      <itunes:order>389</itunes:order>
+    </item>
+    <item>
+      <guid>yvCLtnriDC0</guid>
+      <title>Polynômes racines de l’unité</title>
+      <link>https://youtube.com/watch?v=yvCLtnriDC0</link>
+      <description> </description>
+      <pubDate>Sun, 11 Jun 2023 16:00:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/yvCLtnriDC0.mp3" length="7594365" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Polynômes racines de l’unité</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/yvCLtnriDC0/hqdefault.jpg"></itunes:image>
+      <itunes:duration>10:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>390</itunes:order>
     </item>
     <item>
       <guid>meDhg-MOIio</guid>
@@ -3564,7 +5267,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/meDhg-MOIio/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>385</itunes:order>
+      <itunes:order>391</itunes:order>
     </item>
     <item>
       <guid>RGeJPqi_8T8</guid>
@@ -3579,7 +5282,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/RGeJPqi_8T8/hqdefault.jpg"></itunes:image>
       <itunes:duration>9:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>386</itunes:order>
+      <itunes:order>392</itunes:order>
+    </item>
+    <item>
+      <guid>wbj4T-XMIYs</guid>
+      <title>Groupe de bijections affines</title>
+      <link>https://youtube.com/watch?v=wbj4T-XMIYs</link>
+      <description>#maths</description>
+      <pubDate>Tue, 06 Jun 2023 18:50:01 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/wbj4T-XMIYs.mp3" length="4686837" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Groupe de bijections affines</itunes:subtitle>
+      <itunes:summary><![CDATA[#maths]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/wbj4T-XMIYs/hqdefault.jpg"></itunes:image>
+      <itunes:duration>6:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>393</itunes:order>
     </item>
     <item>
       <guid>CJRLowUNIkM</guid>
@@ -3594,7 +5312,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/CJRLowUNIkM/hqdefault.jpg"></itunes:image>
       <itunes:duration>14:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>388</itunes:order>
+      <itunes:order>394</itunes:order>
+    </item>
+    <item>
+      <guid>wnZ0MWsUFvE</guid>
+      <title>Compter les dérangements</title>
+      <link>https://youtube.com/watch?v=wnZ0MWsUFvE</link>
+      <description>#maths</description>
+      <pubDate>Sun, 04 Jun 2023 15:36:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/wnZ0MWsUFvE.mp3" length="3407349" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Compter les dérangements</itunes:subtitle>
+      <itunes:summary><![CDATA[#maths]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/wnZ0MWsUFvE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>4:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>395</itunes:order>
     </item>
     <item>
       <guid>kXoNIqGnSZs</guid>
@@ -3609,7 +5342,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/kXoNIqGnSZs/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>390</itunes:order>
+      <itunes:order>396</itunes:order>
     </item>
     <item>
       <guid>GyM79xZniaY</guid>
@@ -3624,7 +5357,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/GyM79xZniaY/hqdefault.jpg"></itunes:image>
       <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>391</itunes:order>
+      <itunes:order>397</itunes:order>
     </item>
     <item>
       <guid>O7l50h3TSeI</guid>
@@ -3639,7 +5372,52 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/O7l50h3TSeI/hqdefault.jpg"></itunes:image>
       <itunes:duration>3:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>392</itunes:order>
+      <itunes:order>398</itunes:order>
+    </item>
+    <item>
+      <guid>zGz99AGfIzE</guid>
+      <title>L’espace engendré par des polynômes positifs</title>
+      <link>https://youtube.com/watch?v=zGz99AGfIzE</link>
+      <description>#maths</description>
+      <pubDate>Thu, 25 May 2023 17:53:31 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zGz99AGfIzE.mp3" length="2491581" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>L’espace engendré par des polynômes positifs</itunes:subtitle>
+      <itunes:summary><![CDATA[#maths]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zGz99AGfIzE/hqdefault.jpg"></itunes:image>
+      <itunes:duration>3:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>399</itunes:order>
+    </item>
+    <item>
+      <guid>qHZpGB-YLnY</guid>
+      <title>3 Entiers consécutifs forment ils une puissance de n ?</title>
+      <link>https://youtube.com/watch?v=qHZpGB-YLnY</link>
+      <description>#maths</description>
+      <pubDate>Fri, 12 May 2023 15:37:08 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/qHZpGB-YLnY.mp3" length="3442845" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>3 Entiers consécutifs forment ils une puissance de n ?</itunes:subtitle>
+      <itunes:summary><![CDATA[#maths]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/qHZpGB-YLnY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>5:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>400</itunes:order>
+    </item>
+    <item>
+      <guid>vhRcRwtTic4</guid>
+      <title>Arithmétique - sommes d’entiers</title>
+      <link>https://youtube.com/watch?v=vhRcRwtTic4</link>
+      <description> </description>
+      <pubDate>Thu, 11 May 2023 17:48:23 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/vhRcRwtTic4.mp3" length="2509557" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Arithmétique - sommes d’entiers</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/vhRcRwtTic4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>3:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>401</itunes:order>
     </item>
     <item>
       <guid>ihJ-Pm1v37A</guid>
@@ -3654,7 +5432,22 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ihJ-Pm1v37A/hqdefault.jpg"></itunes:image>
       <itunes:duration>2:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>396</itunes:order>
+      <itunes:order>402</itunes:order>
+    </item>
+    <item>
+      <guid>sPSK9QD446c</guid>
+      <title>Arithmétique (dur)</title>
+      <link>https://youtube.com/watch?v=sPSK9QD446c</link>
+      <description> </description>
+      <pubDate>Thu, 11 May 2023 17:47:53 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/sPSK9QD446c.mp3" length="857181" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Arithmétique (dur)</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/sPSK9QD446c/hqdefault.jpg"></itunes:image>
+      <itunes:duration>1:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>403</itunes:order>
     </item>
     <item>
       <guid>1aPjxpcYqgs</guid>
@@ -3669,7 +5462,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/1aPjxpcYqgs/hqdefault.jpg"></itunes:image>
       <itunes:duration>0:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>398</itunes:order>
+      <itunes:order>404</itunes:order>
     </item>
     <item>
       <guid>nBztXAKAyAs</guid>
@@ -3684,7 +5477,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/nBztXAKAyAs/hqdefault.jpg"></itunes:image>
       <itunes:duration>1:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>399</itunes:order>
+      <itunes:order>405</itunes:order>
     </item>
     <item>
       <guid>6HL-JeuYA-M</guid>
@@ -3699,7 +5492,7 @@ Merci à M. Tosel !!!]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/6HL-JeuYA-M/maxresdefault.jpg"></itunes:image>
       <itunes:duration>2:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:order>400</itunes:order>
+      <itunes:order>406</itunes:order>
     </item>
   </channel>
 </rss>
