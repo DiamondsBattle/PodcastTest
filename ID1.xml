@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 16:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 09:39:11 +0000</lastBuildDate>
     <pubDate>Thu, 04 May 2023 14:20:52 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/K5PQODXDwG0ZenVuL5TQuG9-m98U-0CqnE53XNDwH-u48goKqQzEd51vEdPcDtYZC11d02fwZA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>9vpGxI9wj4c</guid>
+      <title>Faire des maths quand on est KO 3 </title>
+      <link>https://youtube.com/watch?v=9vpGxI9wj4c</link>
+      <description> </description>
+      <pubDate>Tue, 17 Mar 2026 18:03:38 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/9vpGxI9wj4c.mp3" length="8147637" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Faire des maths quand on est KO 3 </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9vpGxI9wj4c/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>YUcHPNXW2Tw</guid>
       <title>Faire des maths quand on est KO mentalement 2 </title>
       <link>https://youtube.com/watch?v=YUcHPNXW2Tw</link>
@@ -38,6 +53,87 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:duration>11:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>2</itunes:order>
+    </item>
+    <item>
+      <guid>naEgvJPc5TA</guid>
+      <title>Faire des mathématiques quand on est KO mentalement </title>
+      <link>https://youtube.com/watch?v=naEgvJPc5TA</link>
+      <description> </description>
+      <pubDate>Wed, 11 Mar 2026 18:48:03 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/naEgvJPc5TA.mp3" length="16752237" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Faire des mathématiques quand on est KO mentalement </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/naEgvJPc5TA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>31:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>3</itunes:order>
+    </item>
+    <item>
+      <guid>wE0ioOVo7DE</guid>
+      <title>Polytechnique VS Ecole Normale ! </title>
+      <link>https://youtube.com/watch?v=wE0ioOVo7DE</link>
+      <description> </description>
+      <pubDate>Tue, 10 Mar 2026 18:44:03 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/wE0ioOVo7DE.mp3" length="19585749" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Polytechnique VS Ecole Normale ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/wE0ioOVo7DE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>34:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>4</itunes:order>
+    </item>
+    <item>
+      <guid>8ucb-NMPzk8</guid>
+      <title>Le MYTHE du génie !!! </title>
+      <link>https://youtube.com/watch?v=8ucb-NMPzk8</link>
+      <description> </description>
+      <pubDate>Sat, 28 Feb 2026 15:36:44 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/8ucb-NMPzk8.mp3" length="12515205" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Le MYTHE du génie !!! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/8ucb-NMPzk8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>21:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>5</itunes:order>
+    </item>
+    <item>
+      <guid>PKaK_PTJ8-s</guid>
+      <title>La mentalité DS ! </title>
+      <link>https://youtube.com/watch?v=PKaK_PTJ8-s</link>
+      <description>Souvent, quand je fais des maths, ou quand je fais l’amour, ou quand&#xA;je médite, c’est l’enfant qui joue. Il n’est pas toujours le seul à “jouer”. Mais&#xA;quand il n’est pas là, il n’y a ni maths, ni amour, ni méditation. C’est pas la&#xA;peine de faire semblant - et c’est rare que j’aie joué cette comédie-là.&#xA;Il n’y a pas que l’enfant, c’est sûr. Il y a le “moi”, le “patron” ou le&#xA;“grand chef”, qu’on l’appelle comme on voudra. Sûrement qu’il est indispensable, le patron, à la marche de l’entreprise. S’il y a un patron ça doit bien&#xA;être pour quelque chose. Il veille à l’intendance, et comme tous les patrons,&#xA;il a une fâcheuse tendance à devenir envahissant. Il se prend terriblement au&#xA;sérieux et veut à toute fin être meilleur que le patron d’en face. Envahissant&#xA;ou pas, il n’est que le patron, c’est pas lui l’ouvrier. Il organise, il commande,&#xA;et il encaisse c’est sûr! - il encaisse les bénéfices comme son dû, et subit les&#xA;pertes comme un outrage. Mais il ne crée rien.&#xA;Seul l’ouvrier a puissance de créer, et l’ouvrier n’est autre que l’enfant.&#xA;C’est rare, l’entreprise où patron et ouvrier s’entendent. Le plus souvent, on&#xA;ne voit trace de l’ouvrier, enfermé Dieu sait où. C’est le patron qui a fait&#xA;mine de prendre sa place dans l’atelier, avec les résultats qu’on devine. Et&#xA;souvent aussi, quand l’ouvrier y est bel et bien, le patron lui fait la guerre,&#xA;guerre violente ou d’escarmouches - de cet atelier ne sort pas grand chose!&#xA;Parfois aussi il y a en le patron une tolérance méfiante vis-à-vis de l’ouvrier, il&#xA;le laisse faire en maugréant, et sans le quitter de l’œil. C’est comme une trêve&#xA;constamment reconduite dans une guerre qui n’a jamais cessé. Et l’ouvrier&#xA;peut travailler tant soit peu à la faveur de la trêve.</description>
+      <pubDate>Sun, 15 Feb 2026 19:16:33 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/PKaK_PTJ8-s.mp3" length="9696741" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>La mentalité DS ! </itunes:subtitle>
+      <itunes:summary><![CDATA[Souvent, quand je fais des maths, ou quand je fais l’amour, ou quand
+je médite, c’est l’enfant qui joue. Il n’est pas toujours le seul à “jouer”. Mais
+quand il n’est pas là, il n’y a ni maths, ni amour, ni méditation. C’est pas la
+peine de faire semblant - et c’est rare que j’aie joué cette comédie-là.
+Il n’y a pas que l’enfant, c’est sûr. Il y a le “moi”, le “patron” ou le
+“grand chef”, qu’on l’appelle comme on voudra. Sûrement qu’il est indispensable, le patron, à la marche de l’entreprise. S’il y a un patron ça doit bien
+être pour quelque chose. Il veille à l’intendance, et comme tous les patrons,
+il a une fâcheuse tendance à devenir envahissant. Il se prend terriblement au
+sérieux et veut à toute fin être meilleur que le patron d’en face. Envahissant
+ou pas, il n’est que le patron, c’est pas lui l’ouvrier. Il organise, il commande,
+et il encaisse c’est sûr! - il encaisse les bénéfices comme son dû, et subit les
+pertes comme un outrage. Mais il ne crée rien.
+Seul l’ouvrier a puissance de créer, et l’ouvrier n’est autre que l’enfant.
+C’est rare, l’entreprise où patron et ouvrier s’entendent. Le plus souvent, on
+ne voit trace de l’ouvrier, enfermé Dieu sait où. C’est le patron qui a fait
+mine de prendre sa place dans l’atelier, avec les résultats qu’on devine. Et
+souvent aussi, quand l’ouvrier y est bel et bien, le patron lui fait la guerre,
+guerre violente ou d’escarmouches - de cet atelier ne sort pas grand chose!
+Parfois aussi il y a en le patron une tolérance méfiante vis-à-vis de l’ouvrier, il
+le laisse faire en maugréant, et sans le quitter de l’œil. C’est comme une trêve
+constamment reconduite dans une guerre qui n’a jamais cessé. Et l’ouvrier
+peut travailler tant soit peu à la faveur de la trêve.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/PKaK_PTJ8-s/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>6</itunes:order>
     </item>
     <item>
       <guid>vhOa57crDdI</guid>
@@ -128,6 +224,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:duration>13:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>12</itunes:order>
+    </item>
+    <item>
+      <guid>MzfU1GwTixA</guid>
+      <title>Être plus investi peut t’aider </title>
+      <link>https://youtube.com/watch?v=MzfU1GwTixA</link>
+      <description> </description>
+      <pubDate>Wed, 10 Dec 2025 18:02:57 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/MzfU1GwTixA.mp3" length="13254669" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Être plus investi peut t’aider </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/MzfU1GwTixA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>23:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>13</itunes:order>
     </item>
     <item>
       <guid>sw87fKe8vUo</guid>
@@ -235,6 +346,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:order>20</itunes:order>
     </item>
     <item>
+      <guid>Gw5TJwYRIoA</guid>
+      <title>Retire ton ego et domine ! </title>
+      <link>https://youtube.com/watch?v=Gw5TJwYRIoA</link>
+      <description> </description>
+      <pubDate>Fri, 03 Oct 2025 16:57:58 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/Gw5TJwYRIoA.mp3" length="13081317" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Retire ton ego et domine ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Gw5TJwYRIoA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>21</itunes:order>
+    </item>
+    <item>
       <guid>A_CkEQ0tIqM</guid>
       <title>Comment etre efficace II </title>
       <link>https://youtube.com/watch?v=A_CkEQ0tIqM</link>
@@ -263,6 +389,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:duration>11:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>23</itunes:order>
+    </item>
+    <item>
+      <guid>X3mHvXSTafE</guid>
+      <title>Les lycées d’élite ( LLG, H4… )</title>
+      <link>https://youtube.com/watch?v=X3mHvXSTafE</link>
+      <description> </description>
+      <pubDate>Thu, 18 Sep 2025 18:20:57 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/X3mHvXSTafE.mp3" length="12035829" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Les lycées d’élite ( LLG, H4… )</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/X3mHvXSTafE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>20:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>24</itunes:order>
     </item>
     <item>
       <guid>55DjmXy883k</guid>
@@ -370,6 +511,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:order>31</itunes:order>
     </item>
     <item>
+      <guid>c3l4pJuqGL8</guid>
+      <title>Deviens un(e) dieu(esse) des maths ! </title>
+      <link>https://youtube.com/watch?v=c3l4pJuqGL8</link>
+      <description> </description>
+      <pubDate>Sat, 02 Aug 2025 16:06:33 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/c3l4pJuqGL8.mp3" length="6697701" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Deviens un(e) dieu(esse) des maths ! </itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/c3l4pJuqGL8/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>32</itunes:order>
+    </item>
+    <item>
       <guid>gZCzOLYmizY</guid>
       <title>Sous groupes de S_n </title>
       <link>https://youtube.com/watch?v=gZCzOLYmizY</link>
@@ -415,6 +571,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:order>35</itunes:order>
     </item>
     <item>
+      <guid>-2HtYwQYUjQ</guid>
+      <title>Devenir motivé en maths</title>
+      <link>https://youtube.com/watch?v=-2HtYwQYUjQ</link>
+      <description> </description>
+      <pubDate>Sun, 13 Jul 2025 15:00:01 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/-2HtYwQYUjQ.mp3" length="8725005" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Devenir motivé en maths</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/-2HtYwQYUjQ/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>36</itunes:order>
+    </item>
+    <item>
       <guid>X-kFrvm_KEo</guid>
       <title>Top alg : interlude ensembliste (Tles)</title>
       <link>https://youtube.com/watch?v=X-kFrvm_KEo</link>
@@ -428,6 +599,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:duration>28:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>37</itunes:order>
+    </item>
+    <item>
+      <guid>Gr0snbll0CU</guid>
+      <title>Topologie algébrique : introduction ( tles et plus )</title>
+      <link>https://youtube.com/watch?v=Gr0snbll0CU</link>
+      <description> </description>
+      <pubDate>Mon, 23 Jun 2025 16:00:26 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/Gr0snbll0CU.mp3" length="26202309" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Topologie algébrique : introduction ( tles et plus )</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Gr0snbll0CU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>46:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>38</itunes:order>
     </item>
     <item>
       <guid>-umtdmezh1o</guid>
@@ -445,6 +631,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:order>39</itunes:order>
     </item>
     <item>
+      <guid>t3UG2VnT4dg</guid>
+      <title>Progresser en mathématiques</title>
+      <link>https://youtube.com/watch?v=t3UG2VnT4dg</link>
+      <description> </description>
+      <pubDate>Fri, 13 Jun 2025 16:01:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/t3UG2VnT4dg.mp3" length="10108917" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Progresser en mathématiques</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/t3UG2VnT4dg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>16:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>40</itunes:order>
+    </item>
+    <item>
       <guid>GqCc1b3tpm4</guid>
       <title>Théorème spectral ( 2 eme annees )</title>
       <link>https://youtube.com/watch?v=GqCc1b3tpm4</link>
@@ -458,6 +659,21 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:duration>8:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>41</itunes:order>
+    </item>
+    <item>
+      <guid>9KecUXm-YZA</guid>
+      <title>Hors programme mp : Le lemme de gauss</title>
+      <link>https://youtube.com/watch?v=9KecUXm-YZA</link>
+      <description> </description>
+      <pubDate>Sun, 25 May 2025 14:00:12 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/9KecUXm-YZA.mp3" length="10416165" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Hors programme mp : Le lemme de gauss</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9KecUXm-YZA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>42</itunes:order>
     </item>
     <item>
       <guid>uC85oX3oP4k</guid>
@@ -550,6 +766,36 @@ https://academie-facile-dacces.fr/?fbclid=PAZXh0bgNhZW0CMTEAAaZQdQlIuJQDYtDImRta
       <itunes:order>48</itunes:order>
     </item>
     <item>
+      <guid>ZQXBDtDXXaU</guid>
+      <title>La première année de prépa !</title>
+      <link>https://youtube.com/watch?v=ZQXBDtDXXaU</link>
+      <description> </description>
+      <pubDate>Mon, 05 May 2025 17:00:50 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/ZQXBDtDXXaU.mp3" length="7179021" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>La première année de prépa !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/ZQXBDtDXXaU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>49</itunes:order>
+    </item>
+    <item>
+      <guid>CeJfDCNQ26M</guid>
+      <title>Les différentes matières en prépa</title>
+      <link>https://youtube.com/watch?v=CeJfDCNQ26M</link>
+      <description> </description>
+      <pubDate>Tue, 29 Apr 2025 16:00:20 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/CeJfDCNQ26M.mp3" length="8488893" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Les différentes matières en prépa</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/CeJfDCNQ26M/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>14:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>50</itunes:order>
+    </item>
+    <item>
       <guid>ivTjzMMXA4o</guid>
       <title>Kholle avec des PC de H4</title>
       <link>https://youtube.com/watch?v=ivTjzMMXA4o</link>
@@ -571,6 +817,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>1:02:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>51</itunes:order>
+    </item>
+    <item>
+      <guid>6ZCl3BS0dBs</guid>
+      <title>Pourquoi tu gâches ta vie avec les jeux vidéos</title>
+      <link>https://youtube.com/watch?v=6ZCl3BS0dBs</link>
+      <description> </description>
+      <pubDate>Wed, 23 Apr 2025 16:00:09 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/6ZCl3BS0dBs.mp3" length="12533949" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Pourquoi tu gâches ta vie avec les jeux vidéos</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/6ZCl3BS0dBs/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>21:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>52</itunes:order>
     </item>
     <item>
       <guid>JhvJhXuGfPM</guid>
@@ -616,6 +877,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>16:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>55</itunes:order>
+    </item>
+    <item>
+      <guid>w4COkJqdBZk</guid>
+      <title>Avoir 20/20 grâce à Alexandre Goatendieck 🐐</title>
+      <link>https://youtube.com/watch?v=w4COkJqdBZk</link>
+      <description> </description>
+      <pubDate>Mon, 31 Mar 2025 16:01:16 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/w4COkJqdBZk.mp3" length="14322885" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Avoir 20/20 grâce à Alexandre Goatendieck 🐐</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/w4COkJqdBZk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>25:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>56</itunes:order>
     </item>
     <item>
       <guid>HqmkP79g5gk</guid>
@@ -768,6 +1044,25 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>66</itunes:order>
     </item>
     <item>
+      <guid>-7gjKLa1TIk</guid>
+      <title>Qu’est-ce qu’un schéma ?</title>
+      <link>https://youtube.com/watch?v=-7gjKLa1TIk</link>
+      <description>https://academie-facile-dacces.fr&#xA;&#xA;Espaces membres puis spé puis dm pour voir le dm en pdf &#xA;&#xA;Cours très largement inspiré d’un cours d’algèbre reçu à l’ENS. J’en remercie le professeur</description>
+      <pubDate>Wed, 12 Feb 2025 16:00:00 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/-7gjKLa1TIk.mp3" length="24558117" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Qu’est-ce qu’un schéma ?</itunes:subtitle>
+      <itunes:summary><![CDATA[https://academie-facile-dacces.fr
+
+Espaces membres puis spé puis dm pour voir le dm en pdf 
+
+Cours très largement inspiré d’un cours d’algèbre reçu à l’ENS. J’en remercie le professeur]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/-7gjKLa1TIk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>41:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>67</itunes:order>
+    </item>
+    <item>
       <guid>tyOXm7--pFM</guid>
       <title>Dépasser les autres en cours</title>
       <link>https://youtube.com/watch?v=tyOXm7--pFM</link>
@@ -886,6 +1181,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>5:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>75</itunes:order>
+    </item>
+    <item>
+      <guid>B-klK_iz-0A</guid>
+      <title>Matrices cycliques ( deuxième années et plus )</title>
+      <link>https://youtube.com/watch?v=B-klK_iz-0A</link>
+      <description> </description>
+      <pubDate>Sat, 28 Dec 2024 18:32:56 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/B-klK_iz-0A.mp3" length="23397213" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Matrices cycliques ( deuxième années et plus )</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/B-klK_iz-0A/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>39:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>76</itunes:order>
     </item>
     <item>
       <guid>q5duhv0LWyg</guid>
@@ -1068,6 +1378,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>88</itunes:order>
     </item>
     <item>
+      <guid>IAcac3QVoMU</guid>
+      <title>Les complexes : l’exponentielle !</title>
+      <link>https://youtube.com/watch?v=IAcac3QVoMU</link>
+      <description> </description>
+      <pubDate>Tue, 29 Oct 2024 17:00:22 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/IAcac3QVoMU.mp3" length="17324013" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Les complexes : l’exponentielle !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/IAcac3QVoMU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>89</itunes:order>
+    </item>
+    <item>
       <guid>00oY8xWAUfE</guid>
       <title>Faire des maths quand on est ko mentalement</title>
       <link>https://youtube.com/watch?v=00oY8xWAUfE</link>
@@ -1098,6 +1423,36 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>91</itunes:order>
     </item>
     <item>
+      <guid>GQIt8DqPvAE</guid>
+      <title>Va plus loin avec la présence</title>
+      <link>https://youtube.com/watch?v=GQIt8DqPvAE</link>
+      <description> </description>
+      <pubDate>Tue, 15 Oct 2024 16:00:24 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/GQIt8DqPvAE.mp3" length="7675365" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Va plus loin avec la présence</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/GQIt8DqPvAE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>92</itunes:order>
+    </item>
+    <item>
+      <guid>_iRQ4_HezGY</guid>
+      <title>Nombres complexes : exercices</title>
+      <link>https://youtube.com/watch?v=_iRQ4_HezGY</link>
+      <description> </description>
+      <pubDate>Fri, 11 Oct 2024 16:00:42 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/_iRQ4_HezGY.mp3" length="24920973" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Nombres complexes : exercices</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/_iRQ4_HezGY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>44:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>93</itunes:order>
+    </item>
+    <item>
       <guid>xcCMwVG3w0E</guid>
       <title>Trouver l’équilibre en première année</title>
       <link>https://youtube.com/watch?v=xcCMwVG3w0E</link>
@@ -1113,6 +1468,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>94</itunes:order>
     </item>
     <item>
+      <guid>S5-hHTWj2yM</guid>
+      <title>Tu peux être premier(e)</title>
+      <link>https://youtube.com/watch?v=S5-hHTWj2yM</link>
+      <description> </description>
+      <pubDate>Tue, 01 Oct 2024 16:00:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/S5-hHTWj2yM.mp3" length="5649501" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Tu peux être premier(e)</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/S5-hHTWj2yM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>95</itunes:order>
+    </item>
+    <item>
       <guid>7o6h6ihK2dM</guid>
       <title>Optimiser son temps en cours</title>
       <link>https://youtube.com/watch?v=7o6h6ihK2dM</link>
@@ -1126,6 +1496,51 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>6:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>96</itunes:order>
+    </item>
+    <item>
+      <guid>cMiwld-Mab4</guid>
+      <title>Cette chose peut te bloquer</title>
+      <link>https://youtube.com/watch?v=cMiwld-Mab4</link>
+      <description> </description>
+      <pubDate>Sun, 22 Sep 2024 16:00:28 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/cMiwld-Mab4.mp3" length="9441501" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Cette chose peut te bloquer</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/cMiwld-Mab4/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>15:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>97</itunes:order>
+    </item>
+    <item>
+      <guid>TkYStevDMTI</guid>
+      <title>Progresser en maths grâce aux jeux vidéos 👍👍</title>
+      <link>https://youtube.com/watch?v=TkYStevDMTI</link>
+      <description> </description>
+      <pubDate>Mon, 16 Sep 2024 15:00:35 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/TkYStevDMTI.mp3" length="7827549" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Progresser en maths grâce aux jeux vidéos 👍👍</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/TkYStevDMTI/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>98</itunes:order>
+    </item>
+    <item>
+      <guid>8Bi_RLFb13o</guid>
+      <title>Fais moins pour mieux</title>
+      <link>https://youtube.com/watch?v=8Bi_RLFb13o</link>
+      <description> </description>
+      <pubDate>Fri, 13 Sep 2024 16:14:56 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/8Bi_RLFb13o.mp3" length="8279445" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Fais moins pour mieux</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/8Bi_RLFb13o/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>14:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>99</itunes:order>
     </item>
     <item>
       <guid>QXb_-jkmzbE</guid>
@@ -1368,6 +1783,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>115</itunes:order>
     </item>
     <item>
+      <guid>1c_m5dHuHXk</guid>
+      <title>Encore une kholle</title>
+      <link>https://youtube.com/watch?v=1c_m5dHuHXk</link>
+      <description> </description>
+      <pubDate>Thu, 18 Jul 2024 15:00:03 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/1c_m5dHuHXk.mp3" length="26508957" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Encore une kholle</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/1c_m5dHuHXk/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>36:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>116</itunes:order>
+    </item>
+    <item>
       <guid>1ZdhMkBJgH8</guid>
       <title>Lemme : Les parfaits sont non dénombrables</title>
       <link>https://youtube.com/watch?v=1ZdhMkBJgH8</link>
@@ -1413,6 +1843,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>119</itunes:order>
     </item>
     <item>
+      <guid>hws0aDiyyr0</guid>
+      <title>Mon exo a l’ENS (3)</title>
+      <link>https://youtube.com/watch?v=hws0aDiyyr0</link>
+      <description> </description>
+      <pubDate>Wed, 03 Jul 2024 15:00:46 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/hws0aDiyyr0.mp3" length="6996717" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Mon exo a l’ENS (3)</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/hws0aDiyyr0/hqdefault.jpg"></itunes:image>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>120</itunes:order>
+    </item>
+    <item>
       <guid>xfQhPCpDkeg</guid>
       <title>Mon exo a l’ENS 2</title>
       <link>https://youtube.com/watch?v=xfQhPCpDkeg</link>
@@ -1441,6 +1886,51 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>16:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>122</itunes:order>
+    </item>
+    <item>
+      <guid>zKJCU9P4Lck</guid>
+      <title>Une vraie kholle à Henri IV</title>
+      <link>https://youtube.com/watch?v=zKJCU9P4Lck</link>
+      <description> </description>
+      <pubDate>Tue, 18 Jun 2024 16:38:25 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/zKJCU9P4Lck.mp3" length="21844389" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Une vraie kholle à Henri IV</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zKJCU9P4Lck/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>28:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>123</itunes:order>
+    </item>
+    <item>
+      <guid>WyYTSWPJ8gE</guid>
+      <title>Un exercice qui vient de tomber à l’ENS Paris !</title>
+      <link>https://youtube.com/watch?v=WyYTSWPJ8gE</link>
+      <description> </description>
+      <pubDate>Thu, 13 Jun 2024 18:29:37 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/WyYTSWPJ8gE.mp3" length="25005717" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Un exercice qui vient de tomber à l’ENS Paris !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/WyYTSWPJ8gE/hqdefault.jpg"></itunes:image>
+      <itunes:duration>42:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>124</itunes:order>
+    </item>
+    <item>
+      <guid>RDDQLpSja1Q</guid>
+      <title>12 Conseils qui m’ont aidé en prépa !</title>
+      <link>https://youtube.com/watch?v=RDDQLpSja1Q</link>
+      <description> </description>
+      <pubDate>Sat, 08 Jun 2024 15:00:23 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/RDDQLpSja1Q.mp3" length="45307077" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>12 Conseils qui m’ont aidé en prépa !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/RDDQLpSja1Q/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:19:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>125</itunes:order>
     </item>
     <item>
       <guid>MMKco8XKspo</guid>
@@ -1518,6 +2008,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>130</itunes:order>
     </item>
     <item>
+      <guid>5b-Q1fBYrJA</guid>
+      <title>Mon Parcours ! LLG, ENS</title>
+      <link>https://youtube.com/watch?v=5b-Q1fBYrJA</link>
+      <description> </description>
+      <pubDate>Mon, 20 May 2024 15:00:05 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/5b-Q1fBYrJA.mp3" length="11054613" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Mon Parcours ! LLG, ENS</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/5b-Q1fBYrJA/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>19:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>131</itunes:order>
+    </item>
+    <item>
       <guid>I8ovj12aAy8</guid>
       <title>Sup - Applications linéaires</title>
       <link>https://youtube.com/watch?v=I8ovj12aAy8</link>
@@ -1548,6 +2053,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>133</itunes:order>
     </item>
     <item>
+      <guid>pGay4B47m3I</guid>
+      <title>Les Jeux Vidéos !</title>
+      <link>https://youtube.com/watch?v=pGay4B47m3I</link>
+      <description> </description>
+      <pubDate>Fri, 17 May 2024 15:00:47 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pGay4B47m3I.mp3" length="6791877" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Les Jeux Vidéos !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pGay4B47m3I/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>11:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>134</itunes:order>
+    </item>
+    <item>
       <guid>4DXWETbS-N0</guid>
       <title>Endomorphismes - Exo</title>
       <link>https://youtube.com/watch?v=4DXWETbS-N0</link>
@@ -1561,6 +2081,36 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>13:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>135</itunes:order>
+    </item>
+    <item>
+      <guid>pQXa49esUyM</guid>
+      <title>L’école Normale en vrai !</title>
+      <link>https://youtube.com/watch?v=pQXa49esUyM</link>
+      <description> </description>
+      <pubDate>Tue, 14 May 2024 15:00:30 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pQXa49esUyM.mp3" length="17972517" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>L’école Normale en vrai !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pQXa49esUyM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>31:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>136</itunes:order>
+    </item>
+    <item>
+      <guid>M_apMflQaGM</guid>
+      <title>Sup - Applications linéaires</title>
+      <link>https://youtube.com/watch?v=M_apMflQaGM</link>
+      <description> </description>
+      <pubDate>Mon, 13 May 2024 15:00:16 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/M_apMflQaGM.mp3" length="7816293" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Sup - Applications linéaires</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/M_apMflQaGM/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>137</itunes:order>
     </item>
     <item>
       <guid>_TYhGu_Esak</guid>
@@ -1743,6 +2293,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>149</itunes:order>
     </item>
     <item>
+      <guid>HkIRFsxwaUY</guid>
+      <title>Objectif Oraux !</title>
+      <link>https://youtube.com/watch?v=HkIRFsxwaUY</link>
+      <description> </description>
+      <pubDate>Fri, 19 Apr 2024 15:00:18 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/HkIRFsxwaUY.mp3" length="5678997" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Objectif Oraux !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/HkIRFsxwaUY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>9:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>150</itunes:order>
+    </item>
+    <item>
       <guid>SNziSsKQX_I</guid>
       <title>Reduire le téléphone</title>
       <link>https://youtube.com/watch?v=SNziSsKQX_I</link>
@@ -1771,6 +2336,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>4:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>152</itunes:order>
+    </item>
+    <item>
+      <guid>6SxSLbxMd3g</guid>
+      <title>Protocole top 1</title>
+      <link>https://youtube.com/watch?v=6SxSLbxMd3g</link>
+      <description> </description>
+      <pubDate>Mon, 15 Apr 2024 15:00:06 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/6SxSLbxMd3g.mp3" length="8103213" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Protocole top 1</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/6SxSLbxMd3g/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>153</itunes:order>
     </item>
     <item>
       <guid>-tbEqkLZTdE</guid>
@@ -1981,6 +2561,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>7:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>167</itunes:order>
+    </item>
+    <item>
+      <guid>IT0qNI3HXGc</guid>
+      <title>Addict à ton smartphone ?</title>
+      <link>https://youtube.com/watch?v=IT0qNI3HXGc</link>
+      <description> </description>
+      <pubDate>Tue, 26 Mar 2024 16:59:53 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/IT0qNI3HXGc.mp3" length="11880693" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Addict à ton smartphone ?</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/IT0qNI3HXGc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>20:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>168</itunes:order>
     </item>
     <item>
       <guid>O8kNNtxWA1k</guid>
@@ -2343,6 +2938,21 @@ Determiner P(0)]]></itunes:summary>
       <itunes:order>192</itunes:order>
     </item>
     <item>
+      <guid>V2KiQuSle0c</guid>
+      <title>Prépa, qui es tu ? [ Pour lycéens ]</title>
+      <link>https://youtube.com/watch?v=V2KiQuSle0c</link>
+      <description> </description>
+      <pubDate>Sun, 25 Feb 2024 17:00:32 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/V2KiQuSle0c.mp3" length="6949221" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Prépa, qui es tu ? [ Pour lycéens ]</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/V2KiQuSle0c/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>12:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>193</itunes:order>
+    </item>
+    <item>
       <guid>NRieSedC8O8</guid>
       <title>ULM 21 - Réduction commutative</title>
       <link>https://youtube.com/watch?v=NRieSedC8O8</link>
@@ -2401,6 +3011,51 @@ Determiner P(0)]]></itunes:summary>
       <itunes:duration>22:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:order>197</itunes:order>
+    </item>
+    <item>
+      <guid>pMYL8lhNixc</guid>
+      <title>ULM 19- Les entiers p-adiques !</title>
+      <link>https://youtube.com/watch?v=pMYL8lhNixc</link>
+      <description> </description>
+      <pubDate>Mon, 19 Feb 2024 20:18:06 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/pMYL8lhNixc.mp3" length="7618941" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>ULM 19- Les entiers p-adiques !</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pMYL8lhNixc/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>198</itunes:order>
+    </item>
+    <item>
+      <guid>FnJl4ZcUvxg</guid>
+      <title>Addict à la pignouf ??</title>
+      <link>https://youtube.com/watch?v=FnJl4ZcUvxg</link>
+      <description> </description>
+      <pubDate>Mon, 19 Feb 2024 17:15:21 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/FnJl4ZcUvxg.mp3" length="3620901" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Addict à la pignouf ??</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/FnJl4ZcUvxg/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>199</itunes:order>
+    </item>
+    <item>
+      <guid>hoGVql9Cu94</guid>
+      <title>Comment aimer la prépa</title>
+      <link>https://youtube.com/watch?v=hoGVql9Cu94</link>
+      <description> </description>
+      <pubDate>Sun, 18 Feb 2024 17:00:29 +0000</pubDate>
+      <enclosure url="https://diamondsbattle.github.io/PodcastTest/ID1/hoGVql9Cu94.mp3" length="4920981" type="audio/mpeg"></enclosure>
+      <itunes:author>Facile d’accès </itunes:author>
+      <itunes:subtitle>Comment aimer la prépa</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/hoGVql9Cu94/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>8:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:order>200</itunes:order>
     </item>
     <item>
       <guid>mqi2ymweW70</guid>
