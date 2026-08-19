@@ -536,3 +536,1172 @@ ERROR: unable to download video data: HTTP Error 403: Forbidden
 [36mINFO[0m[2026-08-07T23:13:07+02:00] LOG Compact 0->1, del 2 tables, add 1 tables, took 6.370851ms 
 [36mINFO[0m[2026-08-07T23:13:07+02:00] Compaction for level: 0 DONE                 
 [36mINFO[0m[2026-08-07T23:13:07+02:00] Force compaction on level 0 done             
+[33mWARN[0m[2026-08-19T22:37:08+02:00] using custom youtube-dl binary, turning self updates off 
+[37mDEBU[0m[2026-08-19T22:37:08+02:00] download timeout: 10 min(s)                  
+[36mINFO[0m[2026-08-19T22:37:09+02:00] using youtube-dl 2026.07.04                  
+[36mINFO[0m[2026-08-19T22:37:09+02:00] found ffmpeg: ffmpeg version n8.1.2 Copyright (c) 2000-2026 the FFmpeg developers
+built with gcc 16 (GCC)
+configuration: --prefix=/usr --disable-debug --disable-static --disable-stripping --enable-amf --enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig --enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-ladspa --enable-lcms2 --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-libdvdread --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgsm --enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-libjxl --enable-libmodplug --enable-libmp3lame --enable-libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libplacebo --enable-libpulse --enable-librav1e --enable-librsvg --enable-librubberband --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2 --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl --enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan --disable-decoder=magicyuv
+libavutil      60. 26.102 / 60. 26.102
+libavcodec     62. 28.102 / 62. 28.102
+libavformat    62. 12.102 / 62. 12.102
+libavdevice    62.  3.102 / 62.  3.102
+libavfilter    11. 14.102 / 11. 14.102
+libswscale      9.  5.102 /  9.  5.102
+libswresample   6.  3.102 /  6.  3.102
+
+Exiting with exit code 0 
+[36mINFO[0m[2026-08-19T22:37:09+02:00] opening database "../../db"                  
+[36mINFO[0m[2026-08-19T22:37:09+02:00] All 1 tables opened in 2ms                   
+[36mINFO[0m[2026-08-19T22:37:09+02:00] Replaying file id: 0 at offset: 563540       
+[36mINFO[0m[2026-08-19T22:37:09+02:00] Replay took: 2.675µs                         
+[37mDEBU[0m[2026-08-19T22:37:09+02:00] Value log discard stats empty                
+[37mDEBU[0m[2026-08-19T22:37:09+02:00] creating key providers                       
+[37mDEBU[0m[2026-08-19T22:37:09+02:00] creating update manager                      
+[36mINFO[0m[2026-08-19T22:37:09+02:00] -> updating https://www.youtube.com/channel/UCufYNXG2Uf_9bBrVDf6BIvA  [36mfeed_id[0m=ID1 [36mformat[0m=audio [36mquality[0m=high
+[37mDEBU[0m[2026-08-19T22:37:09+02:00] building feed                                
+[37mDEBU[0m[2026-08-19T22:37:12+02:00] Expected to make 9 API calls to get the descriptions for 424 episode(s). 
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] received 424 episode(s) for "Facile d’accès " 
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] successfully saved updates to storage        
+[36mINFO[0m[2026-08-19T22:37:13+02:00] fetching episodes for download                [36mpage_size[0m=1000
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=--DB3mtfr2c
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-2HtYwQYUjQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-7gjKLa1TIk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-Emws_SavnU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-cSR8h3adGw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-lJ6nFKYh2A
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-q1pKgX1iIU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-tbEqkLZTdE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=-umtdmezh1o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=00oY8xWAUfE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=0jW52zKzus8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=126Xh2KiyI4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=18Qx-Bop-oc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=1ZdhMkBJgH8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=1__64pg1q6A
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=1aPjxpcYqgs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=1c_m5dHuHXk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=1rApffDzopU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=1wiMmc5EdOs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=21WOtCpox1o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=2LMI1c7Ls-o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=2bFq0SVDkgw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=3NWoG4UV36E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=3NwjgogFSkw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=3_9NmmzQ4vI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=3orODpcJ-E0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=3rwzYQuK9B4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4DXWETbS-N0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4KDVPJ1FxCE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4KFPaVxYBIE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4awWWILsItg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4f-f_bl-h_I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4h9fRuR65hE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4nBfAvNecMM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=4uHWIG0QS8Y
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=55DjmXy883k
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=55hQehzCazs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=5XTUOdK2Ujk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=5_7Df_zIzHQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=5b-Q1fBYrJA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=5bYIk1oWql4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=5lN_dnXuWgM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=63WbhjkqkcU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6H7nF5e9Tzk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6H9nTOd3yOs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6HL-JeuYA-M
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6QzWsCTZOyI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6SxSLbxMd3g
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6ZCl3BS0dBs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=6zM_1-WDiD8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=71HVsRQocN0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=75WVnCYbeYI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7BJ7ouBD4e4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7G-oytGFQFI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7ILbu6x-aS8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7LQ63YiyH3M
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7Og_NDdqSPk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7kWGaVJgJ44
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=7o6h6ihK2dM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=81QqfXjl5QM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=89Hm05VCVq0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=8Bi_RLFb13o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=8UevVzs0T9w
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=8ig2qYMnYTQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=8ucb-NMPzk8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=8vX8sibkbok
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=94QAF1DD2_8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=9Ap_aGI4V48
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=9JoxJghGMUI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=9KecUXm-YZA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=9gFCirUB_YE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=9vpGxI9wj4c
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=9zZhuBM9PTc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=A7kBXjPA9jk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ACZ2Vr3zMWE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ALwMMDpHsr8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=AUq7TXKN0D4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=A_CkEQ0tIqM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Aajgk00r8jA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Aol8AImRu8w
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=AqI7EnaNmEE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=B-klK_iz-0A
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=B2D9DTfwIx8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=BVPkFlLT_sw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=BcdB5kJazJc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=BxzQTFqlGgQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=C1vd7z-Zc7I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=CJRLowUNIkM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=C_iHHhGM8LM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=CeJfDCNQ26M
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=CkMSvVsj52U
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ClvdCLV_bxY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=CnHStVBehJc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=CnrtmLPtBhU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Co4N3tCu76w
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Cut_HB55tWM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=DAI1pPi2kt8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=DHssox4avu0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=DHt2l09mpAM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=DZ6cntDJfz4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=D_ZvsEmQQTY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=De_p03bLkgs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=DxwZyRUO7mI
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] adding EId-p-OZHdk ("L'amitié ! Est-ce un scam ?") to queue 
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=EM8kZSHNus4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ERjSEhfBlts
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=EUaf4gQ2pRg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=EncIR_FqFz0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ep233N9D-o0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ev1iXm_4tuc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=FJjgnTDJoCE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=FOd9wSpPdRE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=FPmBe3j3dRc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=FiuV_PCGKLw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Fj-dvAwDGCM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=FnJl4ZcUvxg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=FtPkR-cAi0k
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=G36g3VeEv9I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=G8HQf8N5alU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=GATvJ6HnoXI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=GQIt8DqPvAE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=GkMRUWwvXjQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=GqCc1b3tpm4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Gr0snbll0CU
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] adding GrzNccGpDRw ("Cet objet est le moyen le plus simple d'arrêter d'être un esclave") to queue 
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Gw5TJwYRIoA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=GyM79xZniaY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=H9jzK0crfa4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=HQrPYFnQ8oQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Hat6nOJovOk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=HbKUm2L_iAU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=HkIRFsxwaUY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=HqmkP79g5gk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=I3cDSC8707A
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=I8ovj12aAy8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IAcac3QVoMU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ICuE4T7YR6o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IEHFOpk341E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IT0qNI3HXGc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IXMX3UgWLAo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IkRhfwBnLbg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IoF31y4NvS8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IoO7CHDGygk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=IvhqvW00eVc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=JD3SAQiU9W8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=JEmT0FJjxhM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=JIMS5_MEwWA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=JP7htPsTQmc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Jesu0-L7j4k
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=JhvJhXuGfPM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Jz5PyYFehOY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=KIla5NsddAI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=KPng0QUZl-c
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=L7cm7OrZCyQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=LFCJrBbOrio
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=LZyvoGtyeKg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=LeOyLoc2mK4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=LftkYhpJiA4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=LzKtx_j7hlo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=M-DMyuGmeIQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=MJwrz7-FA6I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=MKMFFVH1W9U
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=MMKco8XKspo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=MVSWeBDuNzQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=MXkydUqbfD0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=M_apMflQaGM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=MzfU1GwTixA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=NFw6lZAwUfQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=NRieSedC8O8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=NcFG55n98J8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Nkejnch5qzg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Nl6GI16YmAU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=NmGSYH6Hs28
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=O7l50h3TSeI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=O8kNNtxWA1k
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=OJSa5xWlGEo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=OYdmrswJ_pQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=OjrkRFIC0RU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=P8MpEh1H5a8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PDyV05NwO58
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PKaK_PTJ8-s
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PMZ3yIbbF2M
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PRxWwd05MJs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PWIZrs9s1zM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PfJnXUlrd6Y
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PwyeRIzRlWs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=PxGZ2w4VJcY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=QXb_-jkmzbE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=QixcFQqVetM
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] adding QmLuJmLxt5Y ("Majore grâce au Bonheur") to queue 
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=QzwYO3-DMyI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=R4OfdY5G6L8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=RDDQLpSja1Q
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=RGeJPqi_8T8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=RRowlDJzxug
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=RhSqb6jDcq4
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] adding Ry_UFixwDI4 ("Comment intégrer POLYTECHNIQUE facilement ! ") to queue 
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=RzLlQhj0fA4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=S5-hHTWj2yM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=S72c67wCkI8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=S9xKGzxMB58
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=SNziSsKQX_I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=SbZSEDOM5ig
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Sg_p5t7pAzk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=So87kLBrPjc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=T1mH1kJJ9gc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=T7fBMf6HDac
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=TFs6TEtWEZo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=TVDZ-mEYxX8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=TZnIsWmYOik
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=TaU6SHAfTY4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Tk0sWbd7doU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=TkYStevDMTI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=UMz9dmT3lhk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=UU4NaiEso-8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=UXuNagDqjeI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=UgyZzmQhD9g
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=V0M3dUNDE18
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=V2KiQuSle0c
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=VGHWCXqftps
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=VL7VRdN74HI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=VUjzPWrRBOQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=VYRIZN_KzJc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=VjDq5metkQg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Wd4JPFx-8ms
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Wrl4wKrGlq0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=WyYTSWPJ8gE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=X-kFrvm_KEo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=X3mHvXSTafE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=XT3dLdVwhJA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=XaiwQAl3uow
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YA8awrXn2Kw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YF4yEs77xqw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YJZlOvStNdg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YKY31xwfd9I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YQ8Etbu3PYs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YSA5zudqgQQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YUcHPNXW2Tw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ygaa-j-ADao
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YinJ_RGy2_E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ykpo-f3Qsng
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=YzYut206TOA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZQXBDtDXXaU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZgDrIr8T2cc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZhbdexkZxBk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZhrXy5dxzjI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=Zl1DQU0Fx-4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_3FNuhhpETg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_HHWgW1jSjE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_TYhGu_Esak
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_UBVOlAn55Q
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_iRQ4_HezGY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_khTAbu1-zI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_waMz8NrUBs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=_wx1eT2J2B4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=a-I0g4NMCzE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=a8QTK0okuXk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=a8d3o8Z16G4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=aFAO62fVM5I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=aNpq6bpWanc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ap13Znnjx7A
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=bANhEm5XJPg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=bIv_81W5YNI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=bOn_kb91edc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=beA6WVx7-zo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=bqZsBTDPaCs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=c3l4pJuqGL8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=cMiwld-Mab4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=cN1z6OOyCgI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=cOnDN2arJ1I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=cp6bylRluxk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=csVZypJaAJc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=cyEZM3TP874
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=cyvHa-1QGvA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=dEvz7HQjbYk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=dGdx5Lmct78
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=dLnk_-b7kwU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=dY-fYGyrAj4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=duts0uMTfY0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=dyO9dw4bwLI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=e0A48vKV44M
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=e4wNW0MBBH8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=e8WvTGvaNVw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=eECxVjA0S8E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=eNZyHhs40MQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=eU3kCYEySBA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ehxCtBI9F0U
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ewr5e7xLSBc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=fgpiHW64BG8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=fimjzj0YZe4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=gCBPJaISBAk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=gHQqXkrFnvA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=gXdDx_c-JFg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=gZCzOLYmizY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=gcV4LxlI_Xo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=gpgw8YxlycI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=hQFVXJrPIac
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=hoGVql9Cu94
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=hws0aDiyyr0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=i1cNtwdARm4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=i9AbAsV2LEk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=iGeFVOTAd94
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=iULzqWYH3Ac
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ihJ-Pm1v37A
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=iiaQn1_sdkQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ivTjzMMXA4o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=j3Q17tgK0nM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=j8ddQbmlo4U
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=jAoPMf0KiMc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=jCWCNsRvH_o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=k1ebSuqg9z0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=k9BCK62_eRI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=kQYaQ9Nk1bo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=kRHQOn1QE8Q
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=kX4hyrBXycA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=kXoNIqGnSZs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=kjWmNVspusQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ko8vH-4gLCU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=krb1Ly8Oows
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=kz8Q20ApzL4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=l2-0XTWomc0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=lXBKFYqVx3g
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=lotdLhjVtCI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=mH_rAv8kDY0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=mOvhli0a_A8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=meDhg-MOIio
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=mlHTNWyKLqQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=mqi2ymweW70
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] adding msAKj3Axo4M ("Quelques conseils pour la rédaction ") to queue 
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=my-ITfdwDX0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=n26cPqVAGxI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=n6hCepjMSRA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=nBztXAKAyAs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=nQga6riBNqE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=nRPENdu-4ak
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=nVZJCawlsO8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=naEgvJPc5TA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=o7VLkSnP6GY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=ofwpwkaCHJk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pDUJdYpqji4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pFleAMpXMEY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pGay4B47m3I
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pHwfhsk5vRI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pMYL8lhNixc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pQXa49esUyM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=pgjJvA_Tprk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=q4h0g6_kwfQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=q5duhv0LWyg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=qHZpGB-YLnY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=qXSWrR3bfQg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=qsW872J4Kdw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=qvnB8xvdWKo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=r27N9k2iqdU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=r33hIvs5j_E
+[37mDEBU[0m[2026-08-19T22:37:13+02:00] adding rJ0KT2bzTUM ("La gym ! ") to queue    
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=rRDH88EWQRM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=rTfendOmIpc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=rft6z5Kzlqg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=rlQ-GQMlaeM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=rntIKk9OgMA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=rvt_tZs69NM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=sPSK9QD446c
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=sYXF-gpnw48
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=s_UUBsXRamQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=segEddVoXM8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=sw87fKe8vUo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=t3UG2VnT4dg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=t6_-fWlRWeo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=taGB7-5sQ-E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=tkzMO-wCHM8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=tyOXm7--pFM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=u0TpraGKxBU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=u0rzb_xLeZ8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=u7_Ird8-FWg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=uC85oX3oP4k
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=uM1uykwWAd4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=uQc5y5m7Szo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=uWs_KIaqjG8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=uZJoesOTqi0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=uktXaeuWqUE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vD1Ds3X8iWc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vVxguV8DXa8
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vbHaJQNnXrI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vcLHFdeLuOw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vhOa57crDdI
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vhRcRwtTic4
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vis2Sxzesso
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vmCkjcT1jvo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vmsWTOXNLkA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vtdE1wgoEtA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=vxlIocKKdUc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=w3VJkY37_gQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=w4COkJqdBZk
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=wDRBLmHHGZc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=wE0ioOVo7DE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=wXCaDWEJXrc
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=w_ufRVGfwG0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=wbj4T-XMIYs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=wimv_OIM4ug
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=wnZ0MWsUFvE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=x0xv6SDK0LU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=x6IqrXBHebA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=xQiaxBP7hMw
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=xVc-40_9qZs
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=xcCMwVG3w0E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=xfQhPCpDkeg
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=xkJrh8_6Q0E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=xzrtBblZVwA
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=y9AOKCmCLuQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=yTL5rGa7-go
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=yrwgsJnoRkE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=yvCLtnriDC0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=z85DZuaBve0
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zG28uPTA5eQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zGz99AGfIzE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zKJCU9P4Lck
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zMjovEArULU
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zQfJFRKQadY
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zVWaNN_Ma1E
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zW01mFnhCJE
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zdIe5bbNHLo
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zfCUnvM6hcM
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zmaUCM4kRoQ
+[36mINFO[0m[2026-08-19T22:37:13+02:00] skipping due to already downloaded            [36mepisode_id[0m=zweyhZiO78o
+[36mINFO[0m[2026-08-19T22:37:13+02:00] download count: 6                            
+[36mINFO[0m[2026-08-19T22:37:13+02:00] ! downloading episode https://youtube.com/watch?v=EId-p-OZHdk  [36mepisode_id[0m=EId-p-OZHdk [36mindex[0m=0
+[31mERRO[0m[2026-08-19T22:37:13+02:00] youtube-dl error: /tmp/podsync-2715382045/EId-p-OZHdk.%(ext)s  [31merror[0m="failed to execute youtube-dl: signal: interrupt"
+[31mERRO[0m[2026-08-19T22:37:13+02:00] Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/bin/yt-dlp", line 4, in <module>
+    from yt_dlp import main
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/lib/python3.14/site-packages/yt_dlp/__init__.py", line 15, in <module>
+    import traceback
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/traceback.py", line 7, in <module>
+    import textwrap
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/textwrap.py", line 17, in <module>
+    class TextWrapper:
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/textwrap.py", line 78, in TextWrapper
+    wordsep_re = re.compile(r'''
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/__init__.py", line 289, in compile
+    return _compile(pattern, flags)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/__init__.py", line 350, in _compile
+    p = _compiler.compile(pattern, flags)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_compiler.py", line 762, in compile
+    p = _parser.parse(p, flags)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 973, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 460, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 856, in _parse
+    p = _parse_sub(source, state, sub_verbose, nested + 1)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 460, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 856, in _parse
+    p = _parse_sub(source, state, sub_verbose, nested + 1)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 464, in _parse_sub
+    if not nested:
+KeyboardInterrupt 
+[36mINFO[0m[2026-08-19T22:37:13+02:00] ! downloading episode https://youtube.com/watch?v=GrzNccGpDRw  [36mepisode_id[0m=GrzNccGpDRw [36mindex[0m=1
+[31mERRO[0m[2026-08-19T22:37:14+02:00] youtube-dl error: /tmp/podsync-2751630438/GrzNccGpDRw.%(ext)s  [31merror[0m="failed to execute youtube-dl: signal: interrupt"
+[31mERRO[0m[2026-08-19T22:37:14+02:00] Traceback (most recent call last):
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/bin/yt-dlp", line 4, in <module>
+    from yt_dlp import main
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/lib/python3.14/site-packages/yt_dlp/__init__.py", line 9, in <module>
+    import collections
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 755, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 845, in get_code
+  File "<frozen importlib._bootstrap_external>", line 968, in path_stats
+  File "<frozen importlib._bootstrap_external>", line 152, in _path_stat
+KeyboardInterrupt 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] ! downloading episode https://youtube.com/watch?v=QmLuJmLxt5Y  [36mepisode_id[0m=QmLuJmLxt5Y [36mindex[0m=2
+[31mERRO[0m[2026-08-19T22:37:14+02:00] youtube-dl error: /tmp/podsync-1426461523/QmLuJmLxt5Y.%(ext)s  [31merror[0m="failed to execute youtube-dl: signal: interrupt"
+[31mERRO[0m[2026-08-19T22:37:14+02:00] Traceback (most recent call last):
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/bin/yt-dlp", line 4, in <module>
+    from yt_dlp import main
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/lib/python3.14/site-packages/yt_dlp/__init__.py", line 15, in <module>
+    import traceback
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 755, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 888, in get_code
+  File "<frozen importlib._bootstrap_external>", line 511, in _compile_bytecode
+KeyboardInterrupt 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] ! downloading episode https://youtube.com/watch?v=Ry_UFixwDI4  [36mepisode_id[0m=Ry_UFixwDI4 [36mindex[0m=3
+[31mERRO[0m[2026-08-19T22:37:14+02:00] youtube-dl error: /tmp/podsync-1452056469/Ry_UFixwDI4.%(ext)s  [31merror[0m="failed to execute youtube-dl: signal: interrupt"
+[31mERRO[0m[2026-08-19T22:37:14+02:00] Traceback (most recent call last):
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/bin/yt-dlp", line 4, in <module>
+    from yt_dlp import main
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/lib/python3.14/site-packages/yt_dlp/__init__.py", line 15, in <module>
+    import traceback
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 755, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 888, in get_code
+  File "<frozen importlib._bootstrap_external>", line 511, in _compile_bytecode
+KeyboardInterrupt 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] ! downloading episode https://youtube.com/watch?v=msAKj3Axo4M  [36mepisode_id[0m=msAKj3Axo4M [36mindex[0m=4
+[31mERRO[0m[2026-08-19T22:37:14+02:00] youtube-dl error: /tmp/podsync-2977129482/msAKj3Axo4M.%(ext)s  [31merror[0m="failed to execute youtube-dl: signal: interrupt"
+[31mERRO[0m[2026-08-19T22:37:14+02:00] Traceback (most recent call last):
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/bin/yt-dlp", line 4, in <module>
+    from yt_dlp import main
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/lib/python3.14/site-packages/yt_dlp/__init__.py", line 15, in <module>
+    import traceback
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/traceback.py", line 7, in <module>
+    import textwrap
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/textwrap.py", line 17, in <module>
+    class TextWrapper:
+    ...<350 lines>...
+            return "\n".join(self.wrap(text))
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/textwrap.py", line 78, in TextWrapper
+    wordsep_re = re.compile(r'''
+        ( # any whitespace
+    ...<14 lines>...
+                'ws': whitespace, 'nws': nowhitespace},
+        re.VERBOSE)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/__init__.py", line 289, in compile
+    return _compile(pattern, flags)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/__init__.py", line 350, in _compile
+    p = _compiler.compile(pattern, flags)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_compiler.py", line 762, in compile
+    p = _parser.parse(p, flags)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 973, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 460, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 856, in _parse
+    p = _parse_sub(source, state, sub_verbose, nested + 1)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 460, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 856, in _parse
+    p = _parse_sub(source, state, sub_verbose, nested + 1)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 460, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 775, in _parse
+    p = _parse_sub(source, state, verbose, nested + 1)
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 460, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+                ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                       not nested and not items))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/re/_parser.py", line 535, in _parse
+    continue
+KeyboardInterrupt 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] ! downloading episode https://youtube.com/watch?v=rJ0KT2bzTUM  [36mepisode_id[0m=rJ0KT2bzTUM [36mindex[0m=5
+[31mERRO[0m[2026-08-19T22:37:14+02:00] youtube-dl error: /tmp/podsync-460105062/rJ0KT2bzTUM.%(ext)s  [31merror[0m="failed to execute youtube-dl: signal: interrupt"
+[31mERRO[0m[2026-08-19T22:37:14+02:00] Traceback (most recent call last):
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/bin/yt-dlp", line 4, in <module>
+    from yt_dlp import main
+  File "/home/duffer/.local/share/uv/tools/yt-dlp/lib/python3.14/site-packages/yt_dlp/__init__.py", line 15, in <module>
+    import traceback
+  File "/home/duffer/.local/share/uv/python/cpython-3.14.2-linux-x86_64-gnu/lib/python3.14/traceback.py", line 7, in <module>
+    import textwrap
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1333, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1267, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1292, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1266, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1365, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 152, in _path_stat
+KeyboardInterrupt 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] downloaded 0 episode(s)                      
+[36mINFO[0m[2026-08-19T22:37:14+02:00] running cleaner                               [36mcount[0m=1000 [36mfeed_id[0m=ID1
+[37mDEBU[0m[2026-08-19T22:37:14+02:00] building iTunes podcast feed                 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] creating file: app/data/ID1.xml               [36mname[0m=ID1.xml
+[37mDEBU[0m[2026-08-19T22:37:14+02:00] written 346570 bytes                          [37mname[0m=ID1.xml
+[37mDEBU[0m[2026-08-19T22:37:14+02:00] building podcast OPML                        
+[37mDEBU[0m[2026-08-19T22:37:14+02:00] can't find configuration for feed "ID2", ignoring opml 
+[36mINFO[0m[2026-08-19T22:37:14+02:00] creating file: app/data/podsync.opml          [36mname[0m=podsync.opml
+[37mDEBU[0m[2026-08-19T22:37:14+02:00] written 1317 bytes                            [37mname[0m=podsync.opml
+[36mINFO[0m[2026-08-19T22:37:14+02:00] successfully updated feed in 4.973588168s    
+[36mINFO[0m[2026-08-19T22:37:14+02:00] -> updating https://www.youtube.com/playlist?list=PLfYC-Yt6el3s  [36mfeed_id[0m=ID2 [36mformat[0m=audio [36mquality[0m=high
+[37mDEBU[0m[2026-08-19T22:37:14+02:00] building feed                                
+[36mINFO[0m[2026-08-19T22:37:14+02:00] getting playlist metadata for: https://youtube.com/playlist?list=PLfYC-Yt6el3s 
+[36mINFO[0m[2026-08-19T22:37:15+02:00] Playlist metadata: {PLfYC-Yt6el3s Podsync  [{0 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDxdWQCaKuPlt-PgD0kLHTV3vfXHw 168x94 168 94} {1 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCKx5305_vku7cWaSyCntfUvq5cXQ 196x110 196 110} {2 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCq2NOiZkOorvH4V5UdpBWoWQBNJQ 246x138 246 138} {3 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAp3dooMnJCY5oCNzLAZFtp6mhepA 336x188 336 188}] DiamondsBattle UClB5jXYA2hCfUB8T1s5ElLQ https://www.youtube.com/channel/UClB5jXYA2hCfUB8T1s5ElLQ https://www.youtube.com/playlist?list=PLfYC-Yt6el3s} 
+[37mDEBU[0m[2026-08-19T22:37:15+02:00] Expected to make 1 API calls to get the descriptions for 1 episode(s). 
+[37mDEBU[0m[2026-08-19T22:37:15+02:00] received 1 episode(s) for "Podsync"          
+[37mDEBU[0m[2026-08-19T22:37:15+02:00] successfully saved updates to storage        
+[36mINFO[0m[2026-08-19T22:37:15+02:00] fetching episodes for download                [36mpage_size[0m=1000
+[37mDEBU[0m[2026-08-19T22:37:15+02:00] adding dndYrR501aw ("Comment intégrer l'X en 3/2 ? Les conseils d'un élève de Louis-le-Grand | Prépa CPGE") to queue 
+[36mINFO[0m[2026-08-19T22:37:15+02:00] download count: 1                            
+[36mINFO[0m[2026-08-19T22:37:15+02:00] ! downloading episode https://youtube.com/watch?v=dndYrR501aw  [36mepisode_id[0m=dndYrR501aw [36mindex[0m=0
+[33mWARN[0m[2026-08-19T22:37:39+02:00] using custom youtube-dl binary, turning self updates off 
+[37mDEBU[0m[2026-08-19T22:37:39+02:00] download timeout: 10 min(s)                  
+[36mINFO[0m[2026-08-19T22:37:39+02:00] using youtube-dl 2026.07.04                  
+[36mINFO[0m[2026-08-19T22:37:39+02:00] found ffmpeg: ffmpeg version n8.1.2 Copyright (c) 2000-2026 the FFmpeg developers
+built with gcc 16 (GCC)
+configuration: --prefix=/usr --disable-debug --disable-static --disable-stripping --enable-amf --enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig --enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-ladspa --enable-lcms2 --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-libdvdread --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgsm --enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-libjxl --enable-libmodplug --enable-libmp3lame --enable-libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libplacebo --enable-libpulse --enable-librav1e --enable-librsvg --enable-librubberband --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2 --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl --enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan --disable-decoder=magicyuv
+libavutil      60. 26.102 / 60. 26.102
+libavcodec     62. 28.102 / 62. 28.102
+libavformat    62. 12.102 / 62. 12.102
+libavdevice    62.  3.102 / 62.  3.102
+libavfilter    11. 14.102 / 11. 14.102
+libswscale      9.  5.102 /  9.  5.102
+libswresample   6.  3.102 /  6.  3.102
+
+Exiting with exit code 0 
+[36mINFO[0m[2026-08-19T22:37:39+02:00] opening database "../../db"                  
+[36mINFO[0m[2026-08-19T22:37:39+02:00] All 1 tables opened in 0s                    
+[36mINFO[0m[2026-08-19T22:37:39+02:00] Replaying file id: 0 at offset: 563540       
+[36mINFO[0m[2026-08-19T22:37:39+02:00] Replay took: 92.202µs                        
+[37mDEBU[0m[2026-08-19T22:37:39+02:00] Value log discard stats empty                
+[37mDEBU[0m[2026-08-19T22:37:39+02:00] creating key providers                       
+[37mDEBU[0m[2026-08-19T22:37:39+02:00] creating update manager                      
+[36mINFO[0m[2026-08-19T22:37:39+02:00] -> updating https://www.youtube.com/channel/UCufYNXG2Uf_9bBrVDf6BIvA  [36mfeed_id[0m=ID1 [36mformat[0m=audio [36mquality[0m=high
+[37mDEBU[0m[2026-08-19T22:37:39+02:00] building feed                                
+[37mDEBU[0m[2026-08-19T22:37:41+02:00] Expected to make 9 API calls to get the descriptions for 424 episode(s). 
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] received 424 episode(s) for "Facile d’accès " 
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] successfully saved updates to storage        
+[36mINFO[0m[2026-08-19T22:37:43+02:00] fetching episodes for download                [36mpage_size[0m=1000
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=--DB3mtfr2c
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-2HtYwQYUjQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-7gjKLa1TIk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-Emws_SavnU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-cSR8h3adGw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-lJ6nFKYh2A
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-q1pKgX1iIU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-tbEqkLZTdE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=-umtdmezh1o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=00oY8xWAUfE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=0jW52zKzus8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=126Xh2KiyI4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=18Qx-Bop-oc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=1ZdhMkBJgH8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=1__64pg1q6A
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=1aPjxpcYqgs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=1c_m5dHuHXk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=1rApffDzopU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=1wiMmc5EdOs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=21WOtCpox1o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=2LMI1c7Ls-o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=2bFq0SVDkgw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=3NWoG4UV36E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=3NwjgogFSkw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=3_9NmmzQ4vI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=3orODpcJ-E0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=3rwzYQuK9B4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4DXWETbS-N0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4KDVPJ1FxCE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4KFPaVxYBIE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4awWWILsItg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4f-f_bl-h_I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4h9fRuR65hE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4nBfAvNecMM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=4uHWIG0QS8Y
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=55DjmXy883k
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=55hQehzCazs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=5XTUOdK2Ujk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=5_7Df_zIzHQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=5b-Q1fBYrJA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=5bYIk1oWql4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=5lN_dnXuWgM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=63WbhjkqkcU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6H7nF5e9Tzk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6H9nTOd3yOs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6HL-JeuYA-M
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6QzWsCTZOyI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6SxSLbxMd3g
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6ZCl3BS0dBs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=6zM_1-WDiD8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=71HVsRQocN0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=75WVnCYbeYI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7BJ7ouBD4e4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7G-oytGFQFI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7ILbu6x-aS8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7LQ63YiyH3M
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7Og_NDdqSPk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7kWGaVJgJ44
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=7o6h6ihK2dM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=81QqfXjl5QM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=89Hm05VCVq0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=8Bi_RLFb13o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=8UevVzs0T9w
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=8ig2qYMnYTQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=8ucb-NMPzk8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=8vX8sibkbok
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=94QAF1DD2_8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=9Ap_aGI4V48
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=9JoxJghGMUI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=9KecUXm-YZA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=9gFCirUB_YE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=9vpGxI9wj4c
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=9zZhuBM9PTc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=A7kBXjPA9jk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ACZ2Vr3zMWE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ALwMMDpHsr8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=AUq7TXKN0D4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=A_CkEQ0tIqM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Aajgk00r8jA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Aol8AImRu8w
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=AqI7EnaNmEE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=B-klK_iz-0A
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=B2D9DTfwIx8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=BVPkFlLT_sw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=BcdB5kJazJc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=BxzQTFqlGgQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=C1vd7z-Zc7I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=CJRLowUNIkM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=C_iHHhGM8LM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=CeJfDCNQ26M
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=CkMSvVsj52U
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ClvdCLV_bxY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=CnHStVBehJc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=CnrtmLPtBhU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Co4N3tCu76w
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Cut_HB55tWM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=DAI1pPi2kt8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=DHssox4avu0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=DHt2l09mpAM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=DZ6cntDJfz4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=D_ZvsEmQQTY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=De_p03bLkgs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=DxwZyRUO7mI
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] adding EId-p-OZHdk ("L'amitié ! Est-ce un scam ?") to queue 
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=EM8kZSHNus4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ERjSEhfBlts
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=EUaf4gQ2pRg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=EncIR_FqFz0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ep233N9D-o0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ev1iXm_4tuc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=FJjgnTDJoCE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=FOd9wSpPdRE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=FPmBe3j3dRc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=FiuV_PCGKLw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Fj-dvAwDGCM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=FnJl4ZcUvxg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=FtPkR-cAi0k
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=G36g3VeEv9I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=G8HQf8N5alU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=GATvJ6HnoXI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=GQIt8DqPvAE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=GkMRUWwvXjQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=GqCc1b3tpm4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Gr0snbll0CU
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] adding GrzNccGpDRw ("Cet objet est le moyen le plus simple d'arrêter d'être un esclave") to queue 
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Gw5TJwYRIoA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=GyM79xZniaY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=H9jzK0crfa4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=HQrPYFnQ8oQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Hat6nOJovOk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=HbKUm2L_iAU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=HkIRFsxwaUY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=HqmkP79g5gk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=I3cDSC8707A
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=I8ovj12aAy8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IAcac3QVoMU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ICuE4T7YR6o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IEHFOpk341E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IT0qNI3HXGc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IXMX3UgWLAo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IkRhfwBnLbg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IoF31y4NvS8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IoO7CHDGygk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=IvhqvW00eVc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=JD3SAQiU9W8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=JEmT0FJjxhM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=JIMS5_MEwWA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=JP7htPsTQmc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Jesu0-L7j4k
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=JhvJhXuGfPM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Jz5PyYFehOY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=KIla5NsddAI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=KPng0QUZl-c
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=L7cm7OrZCyQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=LFCJrBbOrio
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=LZyvoGtyeKg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=LeOyLoc2mK4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=LftkYhpJiA4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=LzKtx_j7hlo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=M-DMyuGmeIQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=MJwrz7-FA6I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=MKMFFVH1W9U
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=MMKco8XKspo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=MVSWeBDuNzQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=MXkydUqbfD0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=M_apMflQaGM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=MzfU1GwTixA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=NFw6lZAwUfQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=NRieSedC8O8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=NcFG55n98J8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Nkejnch5qzg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Nl6GI16YmAU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=NmGSYH6Hs28
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=O7l50h3TSeI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=O8kNNtxWA1k
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=OJSa5xWlGEo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=OYdmrswJ_pQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=OjrkRFIC0RU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=P8MpEh1H5a8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PDyV05NwO58
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PKaK_PTJ8-s
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PMZ3yIbbF2M
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PRxWwd05MJs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PWIZrs9s1zM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PfJnXUlrd6Y
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PwyeRIzRlWs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=PxGZ2w4VJcY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=QXb_-jkmzbE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=QixcFQqVetM
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] adding QmLuJmLxt5Y ("Majore grâce au Bonheur") to queue 
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=QzwYO3-DMyI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=R4OfdY5G6L8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=RDDQLpSja1Q
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=RGeJPqi_8T8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=RRowlDJzxug
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=RhSqb6jDcq4
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] adding Ry_UFixwDI4 ("Comment intégrer POLYTECHNIQUE facilement ! ") to queue 
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=RzLlQhj0fA4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=S5-hHTWj2yM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=S72c67wCkI8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=S9xKGzxMB58
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=SNziSsKQX_I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=SbZSEDOM5ig
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Sg_p5t7pAzk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=So87kLBrPjc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=T1mH1kJJ9gc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=T7fBMf6HDac
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=TFs6TEtWEZo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=TVDZ-mEYxX8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=TZnIsWmYOik
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=TaU6SHAfTY4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Tk0sWbd7doU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=TkYStevDMTI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=UMz9dmT3lhk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=UU4NaiEso-8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=UXuNagDqjeI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=UgyZzmQhD9g
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=V0M3dUNDE18
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=V2KiQuSle0c
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=VGHWCXqftps
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=VL7VRdN74HI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=VUjzPWrRBOQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=VYRIZN_KzJc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=VjDq5metkQg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Wd4JPFx-8ms
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Wrl4wKrGlq0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=WyYTSWPJ8gE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=X-kFrvm_KEo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=X3mHvXSTafE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=XT3dLdVwhJA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=XaiwQAl3uow
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YA8awrXn2Kw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YF4yEs77xqw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YJZlOvStNdg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YKY31xwfd9I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YQ8Etbu3PYs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YSA5zudqgQQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YUcHPNXW2Tw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ygaa-j-ADao
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YinJ_RGy2_E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Ykpo-f3Qsng
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=YzYut206TOA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZQXBDtDXXaU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZgDrIr8T2cc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZhbdexkZxBk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ZhrXy5dxzjI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=Zl1DQU0Fx-4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_3FNuhhpETg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_HHWgW1jSjE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_TYhGu_Esak
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_UBVOlAn55Q
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_iRQ4_HezGY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_khTAbu1-zI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_waMz8NrUBs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=_wx1eT2J2B4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=a-I0g4NMCzE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=a8QTK0okuXk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=a8d3o8Z16G4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=aFAO62fVM5I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=aNpq6bpWanc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ap13Znnjx7A
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=bANhEm5XJPg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=bIv_81W5YNI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=bOn_kb91edc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=beA6WVx7-zo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=bqZsBTDPaCs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=c3l4pJuqGL8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=cMiwld-Mab4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=cN1z6OOyCgI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=cOnDN2arJ1I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=cp6bylRluxk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=csVZypJaAJc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=cyEZM3TP874
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=cyvHa-1QGvA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=dEvz7HQjbYk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=dGdx5Lmct78
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=dLnk_-b7kwU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=dY-fYGyrAj4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=duts0uMTfY0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=dyO9dw4bwLI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=e0A48vKV44M
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=e4wNW0MBBH8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=e8WvTGvaNVw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=eECxVjA0S8E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=eNZyHhs40MQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=eU3kCYEySBA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ehxCtBI9F0U
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ewr5e7xLSBc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=fgpiHW64BG8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=fimjzj0YZe4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=gCBPJaISBAk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=gHQqXkrFnvA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=gXdDx_c-JFg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=gZCzOLYmizY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=gcV4LxlI_Xo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=gpgw8YxlycI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=hQFVXJrPIac
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=hoGVql9Cu94
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=hws0aDiyyr0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=i1cNtwdARm4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=i9AbAsV2LEk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=iGeFVOTAd94
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=iULzqWYH3Ac
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ihJ-Pm1v37A
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=iiaQn1_sdkQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ivTjzMMXA4o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=j3Q17tgK0nM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=j8ddQbmlo4U
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=jAoPMf0KiMc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=jCWCNsRvH_o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=k1ebSuqg9z0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=k9BCK62_eRI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=kQYaQ9Nk1bo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=kRHQOn1QE8Q
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=kX4hyrBXycA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=kXoNIqGnSZs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=kjWmNVspusQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ko8vH-4gLCU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=krb1Ly8Oows
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=kz8Q20ApzL4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=l2-0XTWomc0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=lXBKFYqVx3g
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=lotdLhjVtCI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=mH_rAv8kDY0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=mOvhli0a_A8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=meDhg-MOIio
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=mlHTNWyKLqQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=mqi2ymweW70
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] adding msAKj3Axo4M ("Quelques conseils pour la rédaction ") to queue 
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=my-ITfdwDX0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=n26cPqVAGxI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=n6hCepjMSRA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=nBztXAKAyAs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=nQga6riBNqE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=nRPENdu-4ak
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=nVZJCawlsO8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=naEgvJPc5TA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=o7VLkSnP6GY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=ofwpwkaCHJk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pDUJdYpqji4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pFleAMpXMEY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pGay4B47m3I
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pHwfhsk5vRI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pMYL8lhNixc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pQXa49esUyM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=pgjJvA_Tprk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=q4h0g6_kwfQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=q5duhv0LWyg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=qHZpGB-YLnY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=qXSWrR3bfQg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=qsW872J4Kdw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=qvnB8xvdWKo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=r27N9k2iqdU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=r33hIvs5j_E
+[37mDEBU[0m[2026-08-19T22:37:43+02:00] adding rJ0KT2bzTUM ("La gym ! ") to queue    
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=rRDH88EWQRM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=rTfendOmIpc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=rft6z5Kzlqg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=rlQ-GQMlaeM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=rntIKk9OgMA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=rvt_tZs69NM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=sPSK9QD446c
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=sYXF-gpnw48
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=s_UUBsXRamQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=segEddVoXM8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=sw87fKe8vUo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=t3UG2VnT4dg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=t6_-fWlRWeo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=taGB7-5sQ-E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=tkzMO-wCHM8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=tyOXm7--pFM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=u0TpraGKxBU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=u0rzb_xLeZ8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=u7_Ird8-FWg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=uC85oX3oP4k
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=uM1uykwWAd4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=uQc5y5m7Szo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=uWs_KIaqjG8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=uZJoesOTqi0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=uktXaeuWqUE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vD1Ds3X8iWc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vVxguV8DXa8
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vbHaJQNnXrI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vcLHFdeLuOw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vhOa57crDdI
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vhRcRwtTic4
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vis2Sxzesso
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vmCkjcT1jvo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vmsWTOXNLkA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vtdE1wgoEtA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=vxlIocKKdUc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=w3VJkY37_gQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=w4COkJqdBZk
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=wDRBLmHHGZc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=wE0ioOVo7DE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=wXCaDWEJXrc
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=w_ufRVGfwG0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=wbj4T-XMIYs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=wimv_OIM4ug
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=wnZ0MWsUFvE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=x0xv6SDK0LU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=x6IqrXBHebA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=xQiaxBP7hMw
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=xVc-40_9qZs
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=xcCMwVG3w0E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=xfQhPCpDkeg
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=xkJrh8_6Q0E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=xzrtBblZVwA
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=y9AOKCmCLuQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=yTL5rGa7-go
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=yrwgsJnoRkE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=yvCLtnriDC0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=z85DZuaBve0
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zG28uPTA5eQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zGz99AGfIzE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zKJCU9P4Lck
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zMjovEArULU
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zQfJFRKQadY
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zVWaNN_Ma1E
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zW01mFnhCJE
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zdIe5bbNHLo
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zfCUnvM6hcM
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zmaUCM4kRoQ
+[36mINFO[0m[2026-08-19T22:37:43+02:00] skipping due to already downloaded            [36mepisode_id[0m=zweyhZiO78o
+[36mINFO[0m[2026-08-19T22:37:43+02:00] download count: 6                            
+[36mINFO[0m[2026-08-19T22:37:43+02:00] ! downloading episode https://youtube.com/watch?v=EId-p-OZHdk  [36mepisode_id[0m=EId-p-OZHdk [36mindex[0m=0
+[31mERRO[0m[2026-08-19T22:37:45+02:00] youtube-dl error: /tmp/podsync-4140824487/EId-p-OZHdk.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:45+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=EId-p-OZHdk
+[youtube] EId-p-OZHdk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] EId-p-OZHdk: Downloading android vr player API JSON
+[info] EId-p-OZHdk: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:45+02:00] ! downloading episode https://youtube.com/watch?v=GrzNccGpDRw  [36mepisode_id[0m=GrzNccGpDRw [36mindex[0m=1
+[31mERRO[0m[2026-08-19T22:37:47+02:00] youtube-dl error: /tmp/podsync-395848369/GrzNccGpDRw.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:47+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=GrzNccGpDRw
+[youtube] GrzNccGpDRw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] GrzNccGpDRw: Downloading android vr player API JSON
+[info] GrzNccGpDRw: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:47+02:00] ! downloading episode https://youtube.com/watch?v=QmLuJmLxt5Y  [36mepisode_id[0m=QmLuJmLxt5Y [36mindex[0m=2
+[31mERRO[0m[2026-08-19T22:37:49+02:00] youtube-dl error: /tmp/podsync-2835662980/QmLuJmLxt5Y.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:49+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=QmLuJmLxt5Y
+[youtube] QmLuJmLxt5Y: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] QmLuJmLxt5Y: Downloading android vr player API JSON
+[info] QmLuJmLxt5Y: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:49+02:00] ! downloading episode https://youtube.com/watch?v=Ry_UFixwDI4  [36mepisode_id[0m=Ry_UFixwDI4 [36mindex[0m=3
+[31mERRO[0m[2026-08-19T22:37:51+02:00] youtube-dl error: /tmp/podsync-1000670812/Ry_UFixwDI4.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:51+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=Ry_UFixwDI4
+[youtube] Ry_UFixwDI4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Ry_UFixwDI4: Downloading android vr player API JSON
+[info] Ry_UFixwDI4: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:51+02:00] ! downloading episode https://youtube.com/watch?v=msAKj3Axo4M  [36mepisode_id[0m=msAKj3Axo4M [36mindex[0m=4
+[31mERRO[0m[2026-08-19T22:37:52+02:00] youtube-dl error: /tmp/podsync-2229395056/msAKj3Axo4M.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:52+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=msAKj3Axo4M
+[youtube] msAKj3Axo4M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] msAKj3Axo4M: Downloading android vr player API JSON
+[info] msAKj3Axo4M: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:52+02:00] ! downloading episode https://youtube.com/watch?v=rJ0KT2bzTUM  [36mepisode_id[0m=rJ0KT2bzTUM [36mindex[0m=5
+[31mERRO[0m[2026-08-19T22:37:54+02:00] youtube-dl error: /tmp/podsync-4270768639/rJ0KT2bzTUM.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:54+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=rJ0KT2bzTUM
+[youtube] rJ0KT2bzTUM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] rJ0KT2bzTUM: Downloading android vr player API JSON
+[info] rJ0KT2bzTUM: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:54+02:00] downloaded 0 episode(s)                      
+[36mINFO[0m[2026-08-19T22:37:54+02:00] running cleaner                               [36mcount[0m=1000 [36mfeed_id[0m=ID1
+[37mDEBU[0m[2026-08-19T22:37:54+02:00] building iTunes podcast feed                 
+[36mINFO[0m[2026-08-19T22:37:54+02:00] creating file: app/data/ID1.xml               [36mname[0m=ID1.xml
+[37mDEBU[0m[2026-08-19T22:37:54+02:00] written 346570 bytes                          [37mname[0m=ID1.xml
+[37mDEBU[0m[2026-08-19T22:37:54+02:00] building podcast OPML                        
+[36mINFO[0m[2026-08-19T22:37:54+02:00] creating file: app/data/podsync.opml          [36mname[0m=podsync.opml
+[37mDEBU[0m[2026-08-19T22:37:54+02:00] written 1485 bytes                            [37mname[0m=podsync.opml
+[36mINFO[0m[2026-08-19T22:37:54+02:00] successfully updated feed in 14.875610927s   
+[36mINFO[0m[2026-08-19T22:37:54+02:00] -> updating https://www.youtube.com/playlist?list=PLfYC-Yt6el3s  [36mfeed_id[0m=ID2 [36mformat[0m=audio [36mquality[0m=high
+[37mDEBU[0m[2026-08-19T22:37:54+02:00] building feed                                
+[36mINFO[0m[2026-08-19T22:37:54+02:00] getting playlist metadata for: https://youtube.com/playlist?list=PLfYC-Yt6el3s 
+[36mINFO[0m[2026-08-19T22:37:55+02:00] Playlist metadata: {PLfYC-Yt6el3s Podsync  [{0 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDxdWQCaKuPlt-PgD0kLHTV3vfXHw 168x94 168 94} {1 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCKx5305_vku7cWaSyCntfUvq5cXQ 196x110 196 110} {2 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCq2NOiZkOorvH4V5UdpBWoWQBNJQ 246x138 246 138} {3 https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAp3dooMnJCY5oCNzLAZFtp6mhepA 336x188 336 188}] DiamondsBattle UClB5jXYA2hCfUB8T1s5ElLQ https://www.youtube.com/channel/UClB5jXYA2hCfUB8T1s5ElLQ https://www.youtube.com/playlist?list=PLfYC-Yt6el3s} 
+[37mDEBU[0m[2026-08-19T22:37:55+02:00] Expected to make 1 API calls to get the descriptions for 1 episode(s). 
+[37mDEBU[0m[2026-08-19T22:37:56+02:00] received 1 episode(s) for "Podsync"          
+[37mDEBU[0m[2026-08-19T22:37:56+02:00] successfully saved updates to storage        
+[36mINFO[0m[2026-08-19T22:37:56+02:00] fetching episodes for download                [36mpage_size[0m=1000
+[37mDEBU[0m[2026-08-19T22:37:56+02:00] adding dndYrR501aw ("Comment intégrer l'X en 3/2 ? Les conseils d'un élève de Louis-le-Grand | Prépa CPGE") to queue 
+[36mINFO[0m[2026-08-19T22:37:56+02:00] download count: 1                            
+[36mINFO[0m[2026-08-19T22:37:56+02:00] ! downloading episode https://youtube.com/watch?v=dndYrR501aw  [36mepisode_id[0m=dndYrR501aw [36mindex[0m=0
+[31mERRO[0m[2026-08-19T22:37:58+02:00] youtube-dl error: /tmp/podsync-2229425537/dndYrR501aw.%(ext)s  [31merror[0m="failed to execute youtube-dl: exit status 1"
+[31mERRO[0m[2026-08-19T22:37:58+02:00] [youtube] Extracting URL: https://youtube.com/watch?v=dndYrR501aw
+[youtube] dndYrR501aw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] dndYrR501aw: Downloading android vr player API JSON
+[info] dndYrR501aw: Downloading 1 format(s): 251
+ERROR: unable to download video data: HTTP Error 403: Forbidden 
+[36mINFO[0m[2026-08-19T22:37:58+02:00] downloaded 0 episode(s)                      
+[36mINFO[0m[2026-08-19T22:37:58+02:00] running cleaner                               [36mcount[0m=1000 [36mfeed_id[0m=ID2
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] building iTunes podcast feed                 
+[36mINFO[0m[2026-08-19T22:37:58+02:00] creating file: app/data/ID2.xml               [36mname[0m=ID2.xml
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] written 1396 bytes                            [37mname[0m=ID2.xml
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] building podcast OPML                        
+[36mINFO[0m[2026-08-19T22:37:58+02:00] creating file: app/data/podsync.opml          [36mname[0m=podsync.opml
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] written 1485 bytes                            [37mname[0m=podsync.opml
+[36mINFO[0m[2026-08-19T22:37:58+02:00] successfully updated feed in 3.37600955s     
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] closing database                             
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] Storing value log head: {Fid:0 Len:44 Offset:596924} 
+[36mINFO[0m[2026-08-19T22:37:58+02:00] Got compaction priority: {level:0 score:1.73 dropPrefixes:[]} 
+[36mINFO[0m[2026-08-19T22:37:58+02:00] Running for level: 0                         
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] LOG Compact. Added 430 keys. Skipped 17 keys. Iteration took: 599.739µs 
+[37mDEBU[0m[2026-08-19T22:37:58+02:00] Discard stats: map[0:21491]                  
+[36mINFO[0m[2026-08-19T22:37:58+02:00] LOG Compact 0->1, del 2 tables, add 1 tables, took 7.2068ms 
+[36mINFO[0m[2026-08-19T22:37:58+02:00] Compaction for level: 0 DONE                 
+[36mINFO[0m[2026-08-19T22:37:58+02:00] Force compaction on level 0 done             

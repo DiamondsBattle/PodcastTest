@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Podsync</title>
+    <link>https://youtube.com/playlist?list=PLfYC-Yt6el3s</link>
+    <description>Podsync (2026-08-19 20:31:08.772933306 +0000 UTC)</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2026 20:37:58 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 20:31:08 +0000</pubDate>
+    <image>
+      <url>https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAp3dooMnJCY5oCNzLAZFtp6mhepA</url>
+      <title>Podsync</title>
+      <link>https://youtube.com/playlist?list=PLfYC-Yt6el3s</link>
+    </image>
+    <itunes:author>DiamondsBattle</itunes:author>
+    <itunes:subtitle>Podsync</itunes:subtitle>
+    <itunes:summary><![CDATA[Podsync (2026-08-19 20:31:08.772933306 +0000 UTC)]]></itunes:summary>
+    <itunes:block>yes</itunes:block>
+    <itunes:image href="https://i.ytimg.com/vi/dndYrR501aw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAp3dooMnJCY5oCNzLAZFtp6mhepA"></itunes:image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>

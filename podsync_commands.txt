@@ -1,0 +1,5 @@
+In podsync/app/data :
+../../bin/podsync --config ../../config.toml --headless --debug
+git add .
+git commit -m "Update"
+git push origin main
