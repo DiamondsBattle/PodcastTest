@@ -1,5 +1,6 @@
-In Documents/podsync/app/data :
-../../bin/podsync --config ../../config.toml --headless --debug
+In Documents/podsync/ :
+./bin/podsync --config config.toml --headless --debug
+cd app/data
 git add .
-git commit -m "Update Aug 19"
+git commit -m "Update Sep 16"
 git push origin main
