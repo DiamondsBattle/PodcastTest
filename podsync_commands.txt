@@ -3,5 +3,5 @@ In Documents/podsync/ :
 cd app/data
 git add .
 git status
-git commit -m "Update Nov 3"
+git commit -m "Update Nov 7"
 git push origin main
