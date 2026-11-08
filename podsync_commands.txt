@@ -1,4 +1,4 @@
-In Documents/podsync/ :
+cd Documents/podsync/
 ./bin/podsync --config config.toml --headless --debug
 cd app/data
 git add .
